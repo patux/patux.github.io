@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Patux&#39;s Home</title>
+    <link>https://patux.github.io/tags/</link>
+    <description>Recent content in Tags on Patux&#39;s Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Dec 2019 21:00:23 -0600</lastBuildDate>
+    
+	<atom:link href="https://patux.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2019</title>
+      <link>https://patux.github.io/tags/2019/</link>
+      <pubDate>Sat, 21 Dec 2019 21:00:23 -0600</pubDate>
+      
+      <guid>https://patux.github.io/tags/2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>personal</title>
+      <link>https://patux.github.io/tags/personal/</link>
+      <pubDate>Sat, 21 Dec 2019 21:00:23 -0600</pubDate>
+      
+      <guid>https://patux.github.io/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reflections</title>
+      <link>https://patux.github.io/tags/reflections/</link>
+      <pubDate>Sat, 21 Dec 2019 21:00:23 -0600</pubDate>
+      
+      <guid>https://patux.github.io/tags/reflections/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spanish</title>
+      <link>https://patux.github.io/tags/spanish/</link>
+      <pubDate>Sat, 21 Dec 2019 21:00:23 -0600</pubDate>
+      
+      <guid>https://patux.github.io/tags/spanish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>life</title>
+      <link>https://patux.github.io/tags/life/</link>
+      <pubDate>Thu, 12 Dec 2019 22:52:22 -0600</pubDate>
+      
+      <guid>https://patux.github.io/tags/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>friendship</title>
+      <link>https://patux.github.io/tags/friendship/</link>
+      <pubDate>Thu, 28 Nov 2019 22:58:38 -0600</pubDate>
+      
+      <guid>https://patux.github.io/tags/friendship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>english</title>
+      <link>https://patux.github.io/tags/english/</link>
+      <pubDate>Tue, 19 Nov 2019 22:10:28 -0600</pubDate>
+      
+      <guid>https://patux.github.io/tags/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>work</title>
+      <link>https://patux.github.io/tags/work/</link>
+      <pubDate>Sun, 17 Nov 2019 23:52:02 -0600</pubDate>
+      
+      <guid>https://patux.github.io/tags/work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2018</title>
+      <link>https://patux.github.io/tags/2018/</link>
+      <pubDate>Thu, 22 Feb 2018 22:04:18 -0600</pubDate>
+      
+      <guid>https://patux.github.io/tags/2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>movies</title>
+      <link>https://patux.github.io/tags/movies/</link>
+      <pubDate>Thu, 22 Feb 2018 22:04:18 -0600</pubDate>
+      
+      <guid>https://patux.github.io/tags/movies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>guadalajara</title>
+      <link>https://patux.github.io/tags/guadalajara/</link>
+      <pubDate>Mon, 19 Feb 2018 00:55:56 -0600</pubDate>
+      
+      <guid>https://patux.github.io/tags/guadalajara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://patux.github.io/tags/linux/</link>
+      <pubDate>Mon, 19 Feb 2018 00:55:56 -0600</pubDate>
+      
+      <guid>https://patux.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lugs</title>
+      <link>https://patux.github.io/tags/lugs/</link>
+      <pubDate>Mon, 19 Feb 2018 00:55:56 -0600</pubDate>
+      
+      <guid>https://patux.github.io/tags/lugs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mexico</title>
+      <link>https://patux.github.io/tags/mexico/</link>
+      <pubDate>Mon, 19 Feb 2018 00:55:56 -0600</pubDate>
+      
+      <guid>https://patux.github.io/tags/mexico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>opensource</title>
+      <link>https://patux.github.io/tags/opensource/</link>
+      <pubDate>Mon, 19 Feb 2018 00:55:56 -0600</pubDate>
+      
+      <guid>https://patux.github.io/tags/opensource/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>usergroups</title>
+      <link>https://patux.github.io/tags/usergroups/</link>
+      <pubDate>Mon, 19 Feb 2018 00:55:56 -0600</pubDate>
+      
+      <guid>https://patux.github.io/tags/usergroups/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

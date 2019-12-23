@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>usergroups on Patux&#39;s Home</title>
+    <link>https://patux.github.io/tags/usergroups/</link>
+    <description>Recent content in usergroups on Patux&#39;s Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Feb 2018 00:55:56 -0600</lastBuildDate>
+    
+	<atom:link href="https://patux.github.io/tags/usergroups/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reunion GLO Febrero 2018</title>
+      <link>https://patux.github.io/posts/2018/glo_reunion_february/</link>
+      <pubDate>Mon, 19 Feb 2018 00:55:56 -0600</pubDate>
+      
+      <guid>https://patux.github.io/posts/2018/glo_reunion_february/</guid>
+      <description>Se esta organizando una reunion del Grupo Linux de Occidente, casi despues de 20 años de su fundacion. Sera interesante asistir y ver las caras de viejos amigos, camaradas y ver que ha sido de nosotros despues de tantas guerras santas, ideales y vision acerca del futuro dominado por un sistema libre y de codigo abierto.
+Ciertamente las cosas son muy diferentes respecto a hace 20 años y el Open Source ya no es lo que era en esos tiempos.</description>
+    </item>
+    
+  </channel>
+</rss>
