@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://patux.github.io/comments-policy/</loc>
+    <lastmod>2019-12-23T11:26:26-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patux.github.io/</loc>
+    <lastmod>2019-12-23T11:26:26-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://patux.github.io/tags/2019/</loc>
     <lastmod>2019-12-21T21:00:23-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://patux.github.io/posts/2019/navidad/</loc>
-    <lastmod>2019-12-21T21:00:23-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://patux.github.io/</loc>
     <lastmod>2019-12-21T21:00:23-06:00</lastmod>
   </url>
   
