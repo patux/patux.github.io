@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>work on Patux&#39;s home</title>
-    <link>https://patux.github.io/tags/work/</link>
+    <link>https://www.patux.net/tags/work/</link>
     <description>Recent content in work on Patux&#39;s home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Nov 2019 23:52:02 -0600</lastBuildDate>
     
-	<atom:link href="https://patux.github.io/tags/work/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.patux.net/tags/work/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>blogging as therapy</title>
-      <link>https://patux.github.io/posts/2019/blogging/</link>
+      <link>https://www.patux.net/posts/2019/blogging/</link>
       <pubDate>Sun, 17 Nov 2019 23:52:02 -0600</pubDate>
       
-      <guid>https://patux.github.io/posts/2019/blogging/</guid>
+      <guid>https://www.patux.net/posts/2019/blogging/</guid>
       <description>work Kubecon San Diego starts this week, we are excited to show a demo:
  The Future is Serverless AI See a doodle come to life as a picture with full details delivered by Deep Learning Reference Stack in a serverless function-as-a-service way both in cloud and edge.  More info: https://01.org/kubecon-cloudnativecon-san-diego-2019
 life/health I’ve been sick for 3 weeks :-( started with cold and throat infection… then it got worse with my long life ilness and nightmare: “gastritis”.</description>
