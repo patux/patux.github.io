@@ -7,10 +7,64 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©2020 Geronimo Orozco.</copyright>
-    <lastBuildDate>Mon, 23 Dec 2019 19:15:01 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2020 15:41:01 -0600</lastBuildDate>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020</title>
+      <link>/tags/2020/</link>
+      <pubDate>Sun, 19 Jan 2020 15:41:01 -0600</pubDate>
+      
+      <guid>/tags/2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cadera</title>
+      <link>/tags/cadera/</link>
+      <pubDate>Sun, 19 Jan 2020 15:41:01 -0600</pubDate>
+      
+      <guid>/tags/cadera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>condition</title>
+      <link>/tags/condition/</link>
+      <pubDate>Sun, 19 Jan 2020 15:41:01 -0600</pubDate>
+      
+      <guid>/tags/condition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>me</title>
+      <link>/tags/me/</link>
+      <pubDate>Sun, 19 Jan 2020 15:41:01 -0600</pubDate>
+      
+      <guid>/tags/me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>personal</title>
+      <link>/tags/personal/</link>
+      <pubDate>Sun, 19 Jan 2020 15:41:01 -0600</pubDate>
+      
+      <guid>/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>therapy</title>
+      <link>/tags/therapy/</link>
+      <pubDate>Sun, 19 Jan 2020 15:41:01 -0600</pubDate>
+      
+      <guid>/tags/therapy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>2019</title>
@@ -36,15 +90,6 @@
       <pubDate>Mon, 23 Dec 2019 19:15:01 -0600</pubDate>
       
       <guid>/tags/music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>personal</title>
-      <link>/tags/personal/</link>
-      <pubDate>Mon, 23 Dec 2019 19:15:01 -0600</pubDate>
-      
-      <guid>/tags/personal/</guid>
       <description></description>
     </item>
     

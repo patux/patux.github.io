@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2020 on Patux&#39;s home</title>
+    <link>/tags/2020/</link>
+    <description>Recent content in 2020 on Patux&#39;s home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>©2020 Geronimo Orozco.</copyright>
+    <lastBuildDate>Sun, 19 Jan 2020 15:41:01 -0600</lastBuildDate>
+    
+        <atom:link href="/tags/2020/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>cadera</title>
+      <link>/posts/2020/cadera/</link>
+      <pubDate>Sun, 19 Jan 2020 15:41:01 -0600</pubDate>
+      
+      <guid>/posts/2020/cadera/</guid>
+      <description>Los que me conocen en persona saben que mi caminar no es parejo, desde que tengo memoria he usado zapatos ortopédicos y/o plantillas especiales para aminorar el desnivel que tengo en mi pierna derecha para permitirme llevar una vida normal y sin necesidad de asistencia.
+El diagnostico de mi condición es: &amp;ldquo;displasia congénita de cadera derecha&amp;rdquo;, en mi infancia temprana pase varios años de doctor en doctor y de hospital en hospital, e incluso estuve a punto que me intervinieran quirúrgicamente, pero se tomo la decisión de no hacerlo, y que ya adulto yo evaluaría si me la haría o no.</description>
+    </item>
+    
+  </channel>
+</rss>
