@@ -1,32 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>english on Patux&#39;s home</title>
-    <link>https://www.patux.net/tags/english/</link>
+    <link>/tags/english/</link>
     <description>Recent content in english on Patux&#39;s home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <copyright>©2020 Geronimo Orozco.</copyright>
     <lastBuildDate>Tue, 19 Nov 2019 22:10:28 -0600</lastBuildDate>
     
-	<atom:link href="https://www.patux.net/tags/english/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/english/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>recovering</title>
-      <link>https://www.patux.net/posts/2019/recovering/</link>
+      <link>/posts/2019/recovering/</link>
       <pubDate>Tue, 19 Nov 2019 22:10:28 -0600</pubDate>
       
-      <guid>https://www.patux.net/posts/2019/recovering/</guid>
+      <guid>/posts/2019/recovering/</guid>
       <description>Health Last saturday got my second b12 shot, and had long week in MX due Revolution Day (México) which I used to take some rest and recover. I am feeling better than last week. I can&#39;t wait to go back to biking again.
 .twitter-tweet { font: 14px/1.45 -apple-system,BlinkMacSystemFont,&#34;Segoe UI&#34;,Roboto,Oxygen-Sans,Ubuntu,Cantarell,&#34;Helvetica Neue&#34;,sans-serif; border-left: 4px solid #2b7bb9; padding-left: 1.5em; color: #555; } .twitter-tweet a { color: #2b7bb9; text-decoration: none; } blockquote.twitter-tweet a:hover, blockquote.twitter-tweet a:focus { text-decoration: underline; }  Con salud todo, sin ella nada.</description>
     </item>
     
     <item>
       <title>blogging as therapy</title>
-      <link>https://www.patux.net/posts/2019/blogging/</link>
+      <link>/posts/2019/blogging/</link>
       <pubDate>Sun, 17 Nov 2019 23:52:02 -0600</pubDate>
       
-      <guid>https://www.patux.net/posts/2019/blogging/</guid>
+      <guid>/posts/2019/blogging/</guid>
       <description>work Kubecon San Diego starts this week, we are excited to show a demo:
  The Future is Serverless AI See a doodle come to life as a picture with full details delivered by Deep Learning Reference Stack in a serverless function-as-a-service way both in cloud and edge.  More info: https://01.org/kubecon-cloudnativecon-san-diego-2019
 life/health I’ve been sick for 3 weeks :-( started with cold and throat infection… then it got worse with my long life ilness and nightmare: “gastritis”.</description>
@@ -34,20 +35,20 @@ life/health I’ve been sick for 3 weeks :-( started with cold and throat infect
     
     <item>
       <title>Oscars 2018</title>
-      <link>https://www.patux.net/posts/2018/oscars2018/</link>
+      <link>/posts/2018/oscars2018/</link>
       <pubDate>Thu, 22 Feb 2018 22:04:18 -0600</pubDate>
       
-      <guid>https://www.patux.net/posts/2018/oscars2018/</guid>
+      <guid>/posts/2018/oscars2018/</guid>
       <description>Here is my list of favorites to win for some categories in the upcomming 90th Academy Awards ceremony
 Best Picture:  “Call Me by Your Name” “Darkest Hour” “Dunkirk” “Get Out” “Lady Bird” “Phantom Thread” “The Post” “The Shape of Water” “Three Billboards Outside Ebbing, Missouri”  Lead Actor:  Timothée Chalamet, “Call Me by Your Name” Daniel Day-Lewis, “Phantom Thread” Daniel Kaluuya, “Get Out” Gary Oldman, “Darkest Hour” Denzel Washington, “Roman J.</description>
     </item>
     
     <item>
       <title>We are back</title>
-      <link>https://www.patux.net/posts/2018/we-re-back/</link>
+      <link>/posts/2018/we-re-back/</link>
       <pubDate>Mon, 19 Feb 2018 00:00:42 -0600</pubDate>
       
-      <guid>https://www.patux.net/posts/2018/we-re-back/</guid>
+      <guid>/posts/2018/we-re-back/</guid>
       <description>After almost a year out, I am bringing my personal site and blog back to life.
 Lots and lots of blog post and personal history and growth trough my journey in the open source and software technology are lost&amp;hellip; Anyway, we must move on&amp;hellip;
 This is the first of my post to held random toughts, some of them about technology, sometimes just to held list of likns that I thought are interested to go back and review sometime in the future, sometimes social events related to technology (like meetups, conferences, etc).</description>

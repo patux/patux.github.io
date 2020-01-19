@@ -1,184 +1,185 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Patux&#39;s home</title>
-    <link>https://www.patux.net/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Patux&#39;s home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <copyright>©2020 Geronimo Orozco.</copyright>
     <lastBuildDate>Mon, 23 Dec 2019 19:15:01 -0600</lastBuildDate>
     
-	<atom:link href="https://www.patux.net/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2019</title>
-      <link>https://www.patux.net/tags/2019/</link>
+      <link>/tags/2019/</link>
       <pubDate>Mon, 23 Dec 2019 19:15:01 -0600</pubDate>
       
-      <guid>https://www.patux.net/tags/2019/</guid>
+      <guid>/tags/2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>decada</title>
-      <link>https://www.patux.net/tags/decada/</link>
+      <link>/tags/decada/</link>
       <pubDate>Mon, 23 Dec 2019 19:15:01 -0600</pubDate>
       
-      <guid>https://www.patux.net/tags/decada/</guid>
+      <guid>/tags/decada/</guid>
       <description></description>
     </item>
     
     <item>
       <title>music</title>
-      <link>https://www.patux.net/tags/music/</link>
+      <link>/tags/music/</link>
       <pubDate>Mon, 23 Dec 2019 19:15:01 -0600</pubDate>
       
-      <guid>https://www.patux.net/tags/music/</guid>
+      <guid>/tags/music/</guid>
       <description></description>
     </item>
     
     <item>
       <title>personal</title>
-      <link>https://www.patux.net/tags/personal/</link>
+      <link>/tags/personal/</link>
       <pubDate>Mon, 23 Dec 2019 19:15:01 -0600</pubDate>
       
-      <guid>https://www.patux.net/tags/personal/</guid>
+      <guid>/tags/personal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>playlist</title>
-      <link>https://www.patux.net/tags/playlist/</link>
+      <link>/tags/playlist/</link>
       <pubDate>Mon, 23 Dec 2019 19:15:01 -0600</pubDate>
       
-      <guid>https://www.patux.net/tags/playlist/</guid>
+      <guid>/tags/playlist/</guid>
       <description></description>
     </item>
     
     <item>
       <title>spanish</title>
-      <link>https://www.patux.net/tags/spanish/</link>
+      <link>/tags/spanish/</link>
       <pubDate>Mon, 23 Dec 2019 19:15:01 -0600</pubDate>
       
-      <guid>https://www.patux.net/tags/spanish/</guid>
+      <guid>/tags/spanish/</guid>
       <description></description>
     </item>
     
     <item>
       <title>reflections</title>
-      <link>https://www.patux.net/tags/reflections/</link>
+      <link>/tags/reflections/</link>
       <pubDate>Sat, 21 Dec 2019 21:00:23 -0600</pubDate>
       
-      <guid>https://www.patux.net/tags/reflections/</guid>
+      <guid>/tags/reflections/</guid>
       <description></description>
     </item>
     
     <item>
       <title>life</title>
-      <link>https://www.patux.net/tags/life/</link>
+      <link>/tags/life/</link>
       <pubDate>Thu, 12 Dec 2019 22:52:22 -0600</pubDate>
       
-      <guid>https://www.patux.net/tags/life/</guid>
+      <guid>/tags/life/</guid>
       <description></description>
     </item>
     
     <item>
       <title>friendship</title>
-      <link>https://www.patux.net/tags/friendship/</link>
+      <link>/tags/friendship/</link>
       <pubDate>Thu, 28 Nov 2019 22:58:38 -0600</pubDate>
       
-      <guid>https://www.patux.net/tags/friendship/</guid>
+      <guid>/tags/friendship/</guid>
       <description></description>
     </item>
     
     <item>
       <title>english</title>
-      <link>https://www.patux.net/tags/english/</link>
+      <link>/tags/english/</link>
       <pubDate>Tue, 19 Nov 2019 22:10:28 -0600</pubDate>
       
-      <guid>https://www.patux.net/tags/english/</guid>
+      <guid>/tags/english/</guid>
       <description></description>
     </item>
     
     <item>
       <title>work</title>
-      <link>https://www.patux.net/tags/work/</link>
+      <link>/tags/work/</link>
       <pubDate>Sun, 17 Nov 2019 23:52:02 -0600</pubDate>
       
-      <guid>https://www.patux.net/tags/work/</guid>
+      <guid>/tags/work/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2018</title>
-      <link>https://www.patux.net/tags/2018/</link>
+      <link>/tags/2018/</link>
       <pubDate>Thu, 22 Feb 2018 22:04:18 -0600</pubDate>
       
-      <guid>https://www.patux.net/tags/2018/</guid>
+      <guid>/tags/2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>movies</title>
-      <link>https://www.patux.net/tags/movies/</link>
+      <link>/tags/movies/</link>
       <pubDate>Thu, 22 Feb 2018 22:04:18 -0600</pubDate>
       
-      <guid>https://www.patux.net/tags/movies/</guid>
+      <guid>/tags/movies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>guadalajara</title>
-      <link>https://www.patux.net/tags/guadalajara/</link>
+      <link>/tags/guadalajara/</link>
       <pubDate>Mon, 19 Feb 2018 00:55:56 -0600</pubDate>
       
-      <guid>https://www.patux.net/tags/guadalajara/</guid>
+      <guid>/tags/guadalajara/</guid>
       <description></description>
     </item>
     
     <item>
       <title>linux</title>
-      <link>https://www.patux.net/tags/linux/</link>
+      <link>/tags/linux/</link>
       <pubDate>Mon, 19 Feb 2018 00:55:56 -0600</pubDate>
       
-      <guid>https://www.patux.net/tags/linux/</guid>
+      <guid>/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lugs</title>
-      <link>https://www.patux.net/tags/lugs/</link>
+      <link>/tags/lugs/</link>
       <pubDate>Mon, 19 Feb 2018 00:55:56 -0600</pubDate>
       
-      <guid>https://www.patux.net/tags/lugs/</guid>
+      <guid>/tags/lugs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mexico</title>
-      <link>https://www.patux.net/tags/mexico/</link>
+      <link>/tags/mexico/</link>
       <pubDate>Mon, 19 Feb 2018 00:55:56 -0600</pubDate>
       
-      <guid>https://www.patux.net/tags/mexico/</guid>
+      <guid>/tags/mexico/</guid>
       <description></description>
     </item>
     
     <item>
       <title>opensource</title>
-      <link>https://www.patux.net/tags/opensource/</link>
+      <link>/tags/opensource/</link>
       <pubDate>Mon, 19 Feb 2018 00:55:56 -0600</pubDate>
       
-      <guid>https://www.patux.net/tags/opensource/</guid>
+      <guid>/tags/opensource/</guid>
       <description></description>
     </item>
     
     <item>
       <title>usergroups</title>
-      <link>https://www.patux.net/tags/usergroups/</link>
+      <link>/tags/usergroups/</link>
       <pubDate>Mon, 19 Feb 2018 00:55:56 -0600</pubDate>
       
-      <guid>https://www.patux.net/tags/usergroups/</guid>
+      <guid>/tags/usergroups/</guid>
       <description></description>
     </item>
     

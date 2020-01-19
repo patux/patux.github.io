@@ -1,124 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Patux&#39;s home</title>
-    <link>https://www.patux.net/</link>
+    <link>/</link>
     <description>Recent content in Home on Patux&#39;s home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <copyright>©2020 Geronimo Orozco.</copyright>
     <lastBuildDate>Mon, 23 Dec 2019 19:15:01 -0600</lastBuildDate>
     
-	<atom:link href="https://www.patux.net/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>el soundtrack de mi década</title>
-      <link>https://www.patux.net/posts/2019/misoundtrack2019-2014/</link>
+      <title>Posts</title>
+      <link>/posts/</link>
       <pubDate>Mon, 23 Dec 2019 19:15:01 -0600</pubDate>
       
-      <guid>https://www.patux.net/posts/2019/misoundtrack2019-2014/</guid>
-      <description>En el 2014 comencé de crear un playlist por año, básicamente al inicio de cada año creo una nueva playlist en spotify y conforme pasa el año y escucho rolas que me gustan (principalmente nuevas o que no había escuchado) las voy agregando al playlist del mismo.
-Inicie este ejercicio porque en algún lado no se donde (me parece que en alguna película) escuche la siguiente pregunta: ¿ Cual seria el soundtrack de tu vida ?</description>
+      <guid>/posts/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Comments Policy</title>
-      <link>https://www.patux.net/comments-policy/</link>
+      <link>/comments-policy/</link>
       <pubDate>Mon, 23 Dec 2019 11:26:26 -0600</pubDate>
       
-      <guid>https://www.patux.net/comments-policy/</guid>
+      <guid>/comments-policy/</guid>
       <description>Comments are welcomed and encouraged on this site, but there are some instances where comments will be edited or deleted as follows:
  Comments deemed to be spam or questionable spam will be deleted. Including a link to relevant content is permitted, but comments should be relevant to the post topic. Comments including profanity will be deleted. Comments containing language or concepts that could be deemed offensive will be deleted. Comments that attack a person individually will be deleted.</description>
     </item>
     
     <item>
-      <title>espiritu navideño</title>
-      <link>https://www.patux.net/posts/2019/navidad/</link>
-      <pubDate>Sat, 21 Dec 2019 21:00:23 -0600</pubDate>
-      
-      <guid>https://www.patux.net/posts/2019/navidad/</guid>
-      <description>Por alguna razón este año me siento con mas espíritu navideño, usualmente navidad y año nuevo no me llamaban la atención, por lo general me caían gordas las personas que andaban todas felices y sonrientes en estos días, algo así:
-.twitter-tweet { font: 14px/1.45 -apple-system,BlinkMacSystemFont,&#34;Segoe UI&#34;,Roboto,Oxygen-Sans,Ubuntu,Cantarell,&#34;Helvetica Neue&#34;,sans-serif; border-left: 4px solid #2b7bb9; padding-left: 1.5em; color: #555; } .twitter-tweet a { color: #2b7bb9; text-decoration: none; } blockquote.twitter-tweet a:hover, blockquote.twitter-tweet a:focus { text-decoration: underline; }  ¿Qué pedo con la raza que anda feliz?</description>
-    </item>
-    
-    <item>
       <title>About</title>
-      <link>https://www.patux.net/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.patux.net/about/</guid>
+      <guid>/about/</guid>
       <description>software engineering manager, open source software, biker, nature, travel &amp;amp; dog lover, opinions my own.
 About me</description>
-    </item>
-    
-    <item>
-      <title>sísifo</title>
-      <link>https://www.patux.net/posts/2019/sisifo/</link>
-      <pubDate>Thu, 12 Dec 2019 22:52:22 -0600</pubDate>
-      
-      <guid>https://www.patux.net/posts/2019/sisifo/</guid>
-      <description>Cuando pongo en perspectiva lo que he hecho y donde estoy invariablemente salen estos pensamientos a relucir. Mas allá de ambiciones, metas, retos, logros personales y competencias laborales, no puedo decir que el progreso personal laboral me haya llenado o me haya dado un sentido de realización en la vida; mas allá de el rush inicial por el logro o meta cumplida, obstáculo superado o reto alcanzado; Inevitablemente, al poco tiempo, viene a la mente este tipo de pensamientos ¿ y ahora que sigue ?</description>
-    </item>
-    
-    <item>
-      <title>amistad</title>
-      <link>https://www.patux.net/posts/2019/amistad/</link>
-      <pubDate>Thu, 28 Nov 2019 22:58:38 -0600</pubDate>
-      
-      <guid>https://www.patux.net/posts/2019/amistad/</guid>
-      <description>El sabado pasado fue la reunión de la secundaria a 30 años de habernos conocido. No tenia intención de ir ya que había estado enfermo por cuatro semanas y estaba en recuperación. Cuatro días antes de la reunión me llega un whatsapp una compañera del grupo preguntándome porque no contestaba y por si estaba bien, le platique mi situación. Cual fue mi sorpresa que se ofreció a hacer comida especial para mi y que ella comería lo mismo con tal de que fuera, sorprendido, asentí y me comprometí a ir.</description>
-    </item>
-    
-    <item>
-      <title>recovering</title>
-      <link>https://www.patux.net/posts/2019/recovering/</link>
-      <pubDate>Tue, 19 Nov 2019 22:10:28 -0600</pubDate>
-      
-      <guid>https://www.patux.net/posts/2019/recovering/</guid>
-      <description>Health Last saturday got my second b12 shot, and had long week in MX due Revolution Day (México) which I used to take some rest and recover. I am feeling better than last week. I can&#39;t wait to go back to biking again.
-.twitter-tweet { font: 14px/1.45 -apple-system,BlinkMacSystemFont,&#34;Segoe UI&#34;,Roboto,Oxygen-Sans,Ubuntu,Cantarell,&#34;Helvetica Neue&#34;,sans-serif; border-left: 4px solid #2b7bb9; padding-left: 1.5em; color: #555; } .twitter-tweet a { color: #2b7bb9; text-decoration: none; } blockquote.twitter-tweet a:hover, blockquote.twitter-tweet a:focus { text-decoration: underline; }  Con salud todo, sin ella nada.</description>
-    </item>
-    
-    <item>
-      <title>blogging as therapy</title>
-      <link>https://www.patux.net/posts/2019/blogging/</link>
-      <pubDate>Sun, 17 Nov 2019 23:52:02 -0600</pubDate>
-      
-      <guid>https://www.patux.net/posts/2019/blogging/</guid>
-      <description>work Kubecon San Diego starts this week, we are excited to show a demo:
- The Future is Serverless AI See a doodle come to life as a picture with full details delivered by Deep Learning Reference Stack in a serverless function-as-a-service way both in cloud and edge.  More info: https://01.org/kubecon-cloudnativecon-san-diego-2019
-life/health I’ve been sick for 3 weeks :-( started with cold and throat infection… then it got worse with my long life ilness and nightmare: “gastritis”.</description>
-    </item>
-    
-    <item>
-      <title>Oscars 2018</title>
-      <link>https://www.patux.net/posts/2018/oscars2018/</link>
-      <pubDate>Thu, 22 Feb 2018 22:04:18 -0600</pubDate>
-      
-      <guid>https://www.patux.net/posts/2018/oscars2018/</guid>
-      <description>Here is my list of favorites to win for some categories in the upcomming 90th Academy Awards ceremony
-Best Picture:  “Call Me by Your Name” “Darkest Hour” “Dunkirk” “Get Out” “Lady Bird” “Phantom Thread” “The Post” “The Shape of Water” “Three Billboards Outside Ebbing, Missouri”  Lead Actor:  Timothée Chalamet, “Call Me by Your Name” Daniel Day-Lewis, “Phantom Thread” Daniel Kaluuya, “Get Out” Gary Oldman, “Darkest Hour” Denzel Washington, “Roman J.</description>
-    </item>
-    
-    <item>
-      <title>Reunion GLO Febrero 2018</title>
-      <link>https://www.patux.net/posts/2018/glo_reunion_february/</link>
-      <pubDate>Mon, 19 Feb 2018 00:55:56 -0600</pubDate>
-      
-      <guid>https://www.patux.net/posts/2018/glo_reunion_february/</guid>
-      <description>Se esta organizando una reunion del Grupo Linux de Occidente, casi despues de 20 años de su fundacion. Sera interesante asistir y ver las caras de viejos amigos, camaradas y ver que ha sido de nosotros despues de tantas guerras santas, ideales y vision acerca del futuro dominado por un sistema libre y de codigo abierto.
-Ciertamente las cosas son muy diferentes respecto a hace 20 años y el Open Source ya no es lo que era en esos tiempos.</description>
-    </item>
-    
-    <item>
-      <title>We are back</title>
-      <link>https://www.patux.net/posts/2018/we-re-back/</link>
-      <pubDate>Mon, 19 Feb 2018 00:00:42 -0600</pubDate>
-      
-      <guid>https://www.patux.net/posts/2018/we-re-back/</guid>
-      <description>After almost a year out, I am bringing my personal site and blog back to life.
-Lots and lots of blog post and personal history and growth trough my journey in the open source and software technology are lost&amp;hellip; Anyway, we must move on&amp;hellip;
-This is the first of my post to held random toughts, some of them about technology, sometimes just to held list of likns that I thought are interested to go back and review sometime in the future, sometimes social events related to technology (like meetups, conferences, etc).</description>
     </item>
     
   </channel>

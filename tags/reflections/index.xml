@@ -1,41 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>reflections on Patux&#39;s home</title>
-    <link>https://www.patux.net/tags/reflections/</link>
+    <link>/tags/reflections/</link>
     <description>Recent content in reflections on Patux&#39;s home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <copyright>©2020 Geronimo Orozco.</copyright>
     <lastBuildDate>Sat, 21 Dec 2019 21:00:23 -0600</lastBuildDate>
     
-	<atom:link href="https://www.patux.net/tags/reflections/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/reflections/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>espiritu navideño</title>
-      <link>https://www.patux.net/posts/2019/navidad/</link>
+      <link>/posts/2019/navidad/</link>
       <pubDate>Sat, 21 Dec 2019 21:00:23 -0600</pubDate>
       
-      <guid>https://www.patux.net/posts/2019/navidad/</guid>
+      <guid>/posts/2019/navidad/</guid>
       <description>Por alguna razón este año me siento con mas espíritu navideño, usualmente navidad y año nuevo no me llamaban la atención, por lo general me caían gordas las personas que andaban todas felices y sonrientes en estos días, algo así:
 .twitter-tweet { font: 14px/1.45 -apple-system,BlinkMacSystemFont,&#34;Segoe UI&#34;,Roboto,Oxygen-Sans,Ubuntu,Cantarell,&#34;Helvetica Neue&#34;,sans-serif; border-left: 4px solid #2b7bb9; padding-left: 1.5em; color: #555; } .twitter-tweet a { color: #2b7bb9; text-decoration: none; } blockquote.twitter-tweet a:hover, blockquote.twitter-tweet a:focus { text-decoration: underline; }  ¿Qué pedo con la raza que anda feliz?</description>
     </item>
     
     <item>
       <title>sísifo</title>
-      <link>https://www.patux.net/posts/2019/sisifo/</link>
+      <link>/posts/2019/sisifo/</link>
       <pubDate>Thu, 12 Dec 2019 22:52:22 -0600</pubDate>
       
-      <guid>https://www.patux.net/posts/2019/sisifo/</guid>
+      <guid>/posts/2019/sisifo/</guid>
       <description>Cuando pongo en perspectiva lo que he hecho y donde estoy invariablemente salen estos pensamientos a relucir. Mas allá de ambiciones, metas, retos, logros personales y competencias laborales, no puedo decir que el progreso personal laboral me haya llenado o me haya dado un sentido de realización en la vida; mas allá de el rush inicial por el logro o meta cumplida, obstáculo superado o reto alcanzado; Inevitablemente, al poco tiempo, viene a la mente este tipo de pensamientos ¿ y ahora que sigue ?</description>
     </item>
     
     <item>
       <title>blogging as therapy</title>
-      <link>https://www.patux.net/posts/2019/blogging/</link>
+      <link>/posts/2019/blogging/</link>
       <pubDate>Sun, 17 Nov 2019 23:52:02 -0600</pubDate>
       
-      <guid>https://www.patux.net/posts/2019/blogging/</guid>
+      <guid>/posts/2019/blogging/</guid>
       <description>work Kubecon San Diego starts this week, we are excited to show a demo:
  The Future is Serverless AI See a doodle come to life as a picture with full details delivered by Deep Learning Reference Stack in a serverless function-as-a-service way both in cloud and edge.  More info: https://01.org/kubecon-cloudnativecon-san-diego-2019
 life/health I’ve been sick for 3 weeks :-( started with cold and throat infection… then it got worse with my long life ilness and nightmare: “gastritis”.</description>
