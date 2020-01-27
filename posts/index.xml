@@ -6,11 +6,23 @@
     <description>Recent content in Posts on Patux&#39;s home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>©2020 Geronimo Orozco.</copyright>
-    <lastBuildDate>Sun, 19 Jan 2020 15:41:01 -0600</lastBuildDate>
+    <copyright>This is a personal web page. Things said here do not represent the position of my employer, ©2018-2020</copyright>
+    <lastBuildDate>Mon, 27 Jan 2020 04:58:26 +0000</lastBuildDate>
     
         <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>how bezos’ phone was hacked</title>
+      <link>/posts/2020/how-bezos-was-hacked/</link>
+      <pubDate>Mon, 27 Jan 2020 04:58:26 +0000</pubDate>
+      
+      <guid>/posts/2020/how-bezos-was-hacked/</guid>
+      <description>Good summary from the New York Times on How Bezos Phone Was Hacked, the article clearly states that the phone used by Bezos was an iphone X.
+The end statement of the article is so true 😔
+ “It basically means that we are all extremely vulnerable” - Agnes Callamard
+ Technical Report of the Bezos Phone Hack pdf</description>
+    </item>
     
     <item>
       <title>cadera</title>

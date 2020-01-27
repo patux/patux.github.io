@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hack on Patux&#39;s home</title>
+    <link>/tags/hack/</link>
+    <description>Recent content in hack on Patux&#39;s home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>This is a personal web page. Things said here do not represent the position of my employer, ©2018-2020</copyright>
+    <lastBuildDate>Mon, 27 Jan 2020 04:58:26 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How Bezos’ Phone Was Hacked</title>
+      <link>/posts/2020/how-bezos-was-hacked/</link>
+      <pubDate>Mon, 27 Jan 2020 04:58:26 +0000</pubDate>
+      
+      <guid>/posts/2020/how-bezos-was-hacked/</guid>
+      <description>Good summary from the New York Times on How Bezos Phone Was Hacked, the article clearly states that the phone used by Bezos was an iphone X.
+I really like the end statement of the article because it is so true 😔
+ “It basically means that we are all extremely vulnerable” - Agnes Callamard
+ </description>
+    </item>
+    
+  </channel>
+</rss>

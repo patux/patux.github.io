@@ -6,8 +6,8 @@
     <description>Recent content in Home on Patux&#39;s home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>©2020 Geronimo Orozco.</copyright>
-    <lastBuildDate>Sun, 19 Jan 2020 15:41:01 -0600</lastBuildDate>
+    <copyright>This is a personal web page. Things said here do not represent the position of my employer, ©2018-2020</copyright>
+    <lastBuildDate>Mon, 27 Jan 2020 04:58:26 +0000</lastBuildDate>
     
         <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Posts</title>
       <link>/posts/</link>
-      <pubDate>Sun, 19 Jan 2020 15:41:01 -0600</pubDate>
+      <pubDate>Mon, 27 Jan 2020 04:58:26 +0000</pubDate>
       
       <guid>/posts/</guid>
       <description></description>
