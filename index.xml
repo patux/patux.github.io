@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>This is a personal web page. Things said here do not represent the position of my employer, ©2018-2020</copyright>
-    <lastBuildDate>Sun, 09 Feb 2020 18:22:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2020 18:22:56 -0600</lastBuildDate>
     
         <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Posts</title>
       <link>/posts/</link>
-      <pubDate>Sun, 09 Feb 2020 18:22:56 +0000</pubDate>
+      <pubDate>Sun, 09 Feb 2020 18:22:56 -0600</pubDate>
       
       <guid>/posts/</guid>
       <description></description>
@@ -38,7 +38,7 @@ Hobbies  Swim - I usually swim 2-3 days a week Biking - Heavily attached to biki
       
       <guid>/comments-policy/</guid>
       <description>Comments are welcomed and encouraged on this site, but there are some instances where comments will be edited or deleted as follows:
- Comments deemed to be spam or questionable spam will be deleted. Including a link to relevant content is permitted, but comments should be relevant to the post topic. Comments including profanity will be deleted. Comments containing language or concepts that could be deemed offensive will be deleted. Comments that attack a person individually will be deleted.</description>
+ Comments deemed to be spam or questionable spam will be deleted. Including a link to relevant content is permitted, but comments should be relevant to the post topic.</description>
     </item>
     
   </channel>

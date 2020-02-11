@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>This is a personal web page. Things said here do not represent the position of my employer, ©2018-2020</copyright>
-    <lastBuildDate>Sun, 09 Feb 2020 18:22:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2020 18:22:56 -0600</lastBuildDate>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>2020</title>
       <link>/tags/2020/</link>
-      <pubDate>Sun, 09 Feb 2020 18:22:56 +0000</pubDate>
+      <pubDate>Sun, 09 Feb 2020 18:22:56 -0600</pubDate>
       
       <guid>/tags/2020/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>english</title>
       <link>/tags/english/</link>
-      <pubDate>Sun, 09 Feb 2020 18:22:56 +0000</pubDate>
+      <pubDate>Sun, 09 Feb 2020 18:22:56 -0600</pubDate>
       
       <guid>/tags/english/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>movies</title>
       <link>/tags/movies/</link>
-      <pubDate>Sun, 09 Feb 2020 18:22:56 +0000</pubDate>
+      <pubDate>Sun, 09 Feb 2020 18:22:56 -0600</pubDate>
       
       <guid>/tags/movies/</guid>
       <description></description>
