@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>This is a personal web page. Things said here do not represent the position of my employer, ©2018-2020</copyright>
-    <lastBuildDate>Sun, 09 Feb 2020 18:22:56 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2020 22:26:56 -0600</lastBuildDate>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,36 @@
     <item>
       <title>2020</title>
       <link>/tags/2020/</link>
-      <pubDate>Sun, 09 Feb 2020 18:22:56 -0600</pubDate>
+      <pubDate>Sat, 15 Feb 2020 22:26:56 -0600</pubDate>
       
       <guid>/tags/2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>life</title>
+      <link>/tags/life/</link>
+      <pubDate>Sat, 15 Feb 2020 22:26:56 -0600</pubDate>
+      
+      <guid>/tags/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reflections</title>
+      <link>/tags/reflections/</link>
+      <pubDate>Sat, 15 Feb 2020 22:26:56 -0600</pubDate>
+      
+      <guid>/tags/reflections/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spanish</title>
+      <link>/tags/spanish/</link>
+      <pubDate>Sat, 15 Feb 2020 22:26:56 -0600</pubDate>
+      
+      <guid>/tags/spanish/</guid>
       <description></description>
     </item>
     
@@ -76,15 +103,6 @@
     </item>
     
     <item>
-      <title>spanish</title>
-      <link>/tags/spanish/</link>
-      <pubDate>Sun, 19 Jan 2020 15:41:01 -0600</pubDate>
-      
-      <guid>/tags/spanish/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>2019</title>
       <link>/tags/2019/</link>
       <pubDate>Mon, 23 Dec 2019 19:15:01 -0600</pubDate>
@@ -117,24 +135,6 @@
       <pubDate>Mon, 23 Dec 2019 19:15:01 -0600</pubDate>
       
       <guid>/tags/playlist/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>reflections</title>
-      <link>/tags/reflections/</link>
-      <pubDate>Sat, 21 Dec 2019 21:00:23 -0600</pubDate>
-      
-      <guid>/tags/reflections/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>life</title>
-      <link>/tags/life/</link>
-      <pubDate>Thu, 12 Dec 2019 22:52:22 -0600</pubDate>
-      
-      <guid>/tags/life/</guid>
       <description></description>
     </item>
     
