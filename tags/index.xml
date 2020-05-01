@@ -7,10 +7,82 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>This is a personal web page. Things said here do not represent the position of my employer, ©2018-2020</copyright>
-    <lastBuildDate>Sat, 15 Feb 2020 22:26:56 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2020 02:46:10 +0000</lastBuildDate>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>edison</title>
+      <link>/tags/edison/</link>
+      <pubDate>Fri, 01 May 2020 02:46:10 +0000</pubDate>
+      
+      <guid>/tags/edison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>electricidad</title>
+      <link>/tags/electricidad/</link>
+      <pubDate>Fri, 01 May 2020 02:46:10 +0000</pubDate>
+      
+      <guid>/tags/electricidad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fraude</title>
+      <link>/tags/fraude/</link>
+      <pubDate>Fri, 01 May 2020 02:46:10 +0000</pubDate>
+      
+      <guid>/tags/fraude/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>movies</title>
+      <link>/tags/movies/</link>
+      <pubDate>Fri, 01 May 2020 02:46:10 +0000</pubDate>
+      
+      <guid>/tags/movies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>peliculas</title>
+      <link>/tags/peliculas/</link>
+      <pubDate>Fri, 01 May 2020 02:46:10 +0000</pubDate>
+      
+      <guid>/tags/peliculas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spanish</title>
+      <link>/tags/spanish/</link>
+      <pubDate>Fri, 01 May 2020 02:46:10 +0000</pubDate>
+      
+      <guid>/tags/spanish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tesla</title>
+      <link>/tags/tesla/</link>
+      <pubDate>Fri, 01 May 2020 02:46:10 +0000</pubDate>
+      
+      <guid>/tags/tesla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>westinghouse</title>
+      <link>/tags/westinghouse/</link>
+      <pubDate>Fri, 01 May 2020 02:46:10 +0000</pubDate>
+      
+      <guid>/tags/westinghouse/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>2020</title>
@@ -40,29 +112,11 @@
     </item>
     
     <item>
-      <title>spanish</title>
-      <link>/tags/spanish/</link>
-      <pubDate>Sat, 15 Feb 2020 22:26:56 -0600</pubDate>
-      
-      <guid>/tags/spanish/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>english</title>
       <link>/tags/english/</link>
       <pubDate>Sun, 09 Feb 2020 18:22:56 -0600</pubDate>
       
       <guid>/tags/english/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>movies</title>
-      <link>/tags/movies/</link>
-      <pubDate>Sun, 09 Feb 2020 18:22:56 -0600</pubDate>
-      
-      <guid>/tags/movies/</guid>
       <description></description>
     </item>
     
