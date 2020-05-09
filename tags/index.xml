@@ -7,10 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>This is a personal web page. Things said here do not represent the position of my employer, ©2018-2020</copyright>
-    <lastBuildDate>Fri, 01 May 2020 02:46:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2020 20:16:31 +0000</lastBuildDate>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>english</title>
+      <link>/tags/english/</link>
+      <pubDate>Sat, 09 May 2020 20:16:31 +0000</pubDate>
+      
+      <guid>/tags/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>melancholia</title>
+      <link>/tags/melancholia/</link>
+      <pubDate>Sat, 09 May 2020 20:16:31 +0000</pubDate>
+      
+      <guid>/tags/melancholia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quarantine</title>
+      <link>/tags/quarantine/</link>
+      <pubDate>Sat, 09 May 2020 20:16:31 +0000</pubDate>
+      
+      <guid>/tags/quarantine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reflections</title>
+      <link>/tags/reflections/</link>
+      <pubDate>Sat, 09 May 2020 20:16:31 +0000</pubDate>
+      
+      <guid>/tags/reflections/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thoughts</title>
+      <link>/tags/thoughts/</link>
+      <pubDate>Sat, 09 May 2020 20:16:31 +0000</pubDate>
+      
+      <guid>/tags/thoughts/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>edison</title>
@@ -99,24 +144,6 @@
       <pubDate>Sat, 15 Feb 2020 22:26:56 -0600</pubDate>
       
       <guid>/tags/life/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>reflections</title>
-      <link>/tags/reflections/</link>
-      <pubDate>Sat, 15 Feb 2020 22:26:56 -0600</pubDate>
-      
-      <guid>/tags/reflections/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>english</title>
-      <link>/tags/english/</link>
-      <pubDate>Sun, 09 Feb 2020 18:22:56 -0600</pubDate>
-      
-      <guid>/tags/english/</guid>
       <description></description>
     </item>
     
