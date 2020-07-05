@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>work on Patux&#39;s home</title>
     <link>/categories/work/</link>
@@ -20,6 +20,7 @@
       <guid>/posts/2019/blogging/</guid>
       <description>work Kubecon San Diego starts this week, we are excited to show a demo:
  The Future is Serverless AI See a doodle come to life as a picture with full details delivered by Deep Learning Reference Stack in a serverless function-as-a-service way both in cloud and edge.  More info: https://01.</description>
+      
     </item>
     
   </channel>

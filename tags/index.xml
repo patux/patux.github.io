@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Patux&#39;s home</title>
     <link>/tags/</link>
@@ -19,6 +19,7 @@
       
       <guid>/tags/2020/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -28,6 +29,7 @@
       
       <guid>/tags/movies/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -37,6 +39,7 @@
       
       <guid>/tags/spanish/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -46,6 +49,7 @@
       
       <guid>/tags/english/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -55,6 +59,7 @@
       
       <guid>/tags/melancholia/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -64,6 +69,7 @@
       
       <guid>/tags/quarantine/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -73,6 +79,7 @@
       
       <guid>/tags/reflections/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -82,6 +89,7 @@
       
       <guid>/tags/thoughts/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -91,6 +99,7 @@
       
       <guid>/tags/edison/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -100,6 +109,7 @@
       
       <guid>/tags/electricidad/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -109,6 +119,7 @@
       
       <guid>/tags/fraude/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -118,6 +129,7 @@
       
       <guid>/tags/peliculas/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -127,6 +139,7 @@
       
       <guid>/tags/tesla/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -136,6 +149,7 @@
       
       <guid>/tags/westinghouse/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -145,6 +159,7 @@
       
       <guid>/tags/life/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -154,6 +169,7 @@
       
       <guid>/tags/article/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -163,6 +179,7 @@
       
       <guid>/tags/hacks/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -172,6 +189,7 @@
       
       <guid>/tags/iphone-x/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -181,6 +199,7 @@
       
       <guid>/tags/condition/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -190,6 +209,7 @@
       
       <guid>/tags/2019/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -199,6 +219,7 @@
       
       <guid>/tags/decada/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -208,6 +229,7 @@
       
       <guid>/tags/music/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -217,6 +239,7 @@
       
       <guid>/tags/playlist/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -226,6 +249,7 @@
       
       <guid>/tags/friendship/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -235,6 +259,7 @@
       
       <guid>/tags/2018/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -244,6 +269,7 @@
       
       <guid>/tags/guadalajara/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -253,6 +279,7 @@
       
       <guid>/tags/lugs/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -262,6 +289,7 @@
       
       <guid>/tags/mexico/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -271,6 +299,7 @@
       
       <guid>/tags/opensource/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -280,6 +309,7 @@
       
       <guid>/tags/usergroups/</guid>
       <description></description>
+      
     </item>
     
   </channel>

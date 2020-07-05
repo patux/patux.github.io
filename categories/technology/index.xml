@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>technology on Patux&#39;s home</title>
     <link>/categories/technology/</link>
@@ -19,6 +19,7 @@
       
       <guid>/posts/2020/la-realidad-supera-a-la-ficcion/</guid>
       <description>Hace 3 días vi la película &amp;ldquo;The Current War&amp;rdquo;   Trata sobre la guerra de las corrientes y me pareció una película entretenida, sin embargo como en muchas películas se toman mucha libertad creativa, ya que presentan a un Edison pobre, inventor, genio y muy competitivo. Edison en realidad era ante todo un empresario, inventor eso si pero principalmente un empresario, y, como muchos empresarios estaba dispuesto a promover actos cuestionables con tal de ganar.</description>
+      
     </item>
     
     <item>
@@ -30,6 +31,7 @@
       <description>Good summary from the New York Times on How Bezos Phone Was Hacked, the article clearly states that the phone used by Bezos was an iphone X.
 The end statement of the article is so true 😔
  “It basically means that we are all extremely vulnerable” - Agnes Callamard</description>
+      
     </item>
     
   </channel>

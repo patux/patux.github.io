@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2020 on Patux&#39;s home</title>
     <link>/tags/2020/</link>
@@ -20,6 +20,7 @@
       <guid>/posts/2020/bunuel/</guid>
       <description>Soy admirador de Luis Buñuel y sus películas.
 Un Perro Andaluz Con la colaboracion en el guion de Salvador Dalí   Belle de Jour   El Angel Exterminador   Los Olvidados   Viridiana   Nazarin   Simon del Desierto   Ensayo de Un Crimen   La Ilusion Viaja en Tranvia   El   El Fantasma de la Libertad En italiano</description>
+      
     </item>
     
     <item>
@@ -29,6 +30,7 @@ Un Perro Andaluz Con la colaboracion en el guion de Salvador Dalí   Belle de Jo
       
       <guid>/posts/2020/tienes-ganas-de-algo-pero-no-sabes-que/</guid>
       <description>Llegas a casa, estas fastidiado, los pendientes del trabajo aun no se desconectan del todo, casi en automático tomas la iPad y le picas a la app de radio para ver si la música mejora tu animo, te sirves un trago&amp;hellip; no estas seguro si tienes hambre, abres el refrigerador a ver que te apetece, tienes ganas de algo, pero no sabes que&amp;hellip;</description>
+      
     </item>
     
     <item>
@@ -38,6 +40,7 @@ Un Perro Andaluz Con la colaboracion en el guion de Salvador Dalí   Belle de Jo
       
       <guid>/posts/2020/oscars2020/</guid>
       <description>&lt;p&gt;Here is my list of favorites to win for some categories in the upcomming &lt;a href=&#34;https://www.oscars.org/oscars/ceremonies/2020&#34;target=&#34;_blank&#34;&gt;92th Academy Awards ceremony&lt;/a&gt;&lt;/p&gt;</description>
+      
     </item>
     
     <item>
@@ -48,6 +51,7 @@ Un Perro Andaluz Con la colaboracion en el guion de Salvador Dalí   Belle de Jo
       <guid>/posts/2020/cadera/</guid>
       <description>Los que me conocen en persona saben que mi caminar no es parejo, desde que tengo memoria he usado zapatos ortopédicos y/o plantillas especiales para aminorar el desnivel que tengo en mi pierna derecha para permitirme llevar una vida normal y sin necesidad de asistencia.
 El diagnostico de mi condición es: &amp;ldquo;displasia congénita de cadera derecha&amp;rdquo;, en mi infancia temprana pase varios años de doctor en doctor y de hospital en hospital, e incluso estuve a punto que me intervinieran quirúrgicamente, pero se tomo la decisión de no hacerlo, y que ya adulto yo evaluaría si me la haría o no.</description>
+      
     </item>
     
   </channel>

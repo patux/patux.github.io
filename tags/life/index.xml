@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>life on Patux&#39;s home</title>
     <link>/tags/life/</link>
@@ -19,6 +19,7 @@
       
       <guid>/posts/2020/tienes-ganas-de-algo-pero-no-sabes-que/</guid>
       <description>Llegas a casa, estas fastidiado, los pendientes del trabajo aun no se desconectan del todo, casi en automático tomas la iPad y le picas a la app de radio para ver si la música mejora tu animo, te sirves un trago&amp;hellip; no estas seguro si tienes hambre, abres el refrigerador a ver que te apetece, tienes ganas de algo, pero no sabes que&amp;hellip;</description>
+      
     </item>
     
     <item>
@@ -28,6 +29,7 @@
       
       <guid>/posts/2019/sisifo/</guid>
       <description>Cuando pongo en perspectiva lo que he hecho y donde estoy invariablemente salen estos pensamientos a relucir. Mas allá de ambiciones, metas, retos, logros personales y competencias laborales, no puedo decir que el progreso personal laboral me haya llenado o me haya dado un sentido de realización en la vida; mas allá de el rush inicial por el logro o meta cumplida, obstáculo superado o reto alcanzado; Inevitablemente, al poco tiempo, viene a la mente este tipo de pensamientos ¿ y ahora que sigue ?</description>
+      
     </item>
     
     <item>
@@ -38,6 +40,7 @@
       <guid>/posts/2019/blogging/</guid>
       <description>work Kubecon San Diego starts this week, we are excited to show a demo:
  The Future is Serverless AI See a doodle come to life as a picture with full details delivered by Deep Learning Reference Stack in a serverless function-as-a-service way both in cloud and edge.  More info: https://01.</description>
+      
     </item>
     
   </channel>

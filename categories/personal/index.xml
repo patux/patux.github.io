@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>personal on Patux&#39;s home</title>
     <link>/categories/personal/</link>
@@ -20,10 +20,10 @@
       <guid>/posts/2020/melancholia/</guid>
       <description>A prhase - which I remembered last night after I drank a couple scotches
  No se extraña lo que nunca se ha tenido&amp;hellip;
- A song  A gif 
-An image &#34;Starry Night Over the Rhone&#34; by 宇中蜃楼 is licensed under CC BY-SA 2.0
-A book 
-GoodReads link</description>
+ A song  A gif An image &#34;Starry Night Over the Rhone&#34; by 宇中蜃楼 is licensed under CC BY-SA 2.0
+A book GoodReads link
+A movie  Netflix Link</description>
+      
     </item>
     
     <item>
@@ -33,6 +33,7 @@ GoodReads link</description>
       
       <guid>/posts/2020/tienes-ganas-de-algo-pero-no-sabes-que/</guid>
       <description>Llegas a casa, estas fastidiado, los pendientes del trabajo aun no se desconectan del todo, casi en automático tomas la iPad y le picas a la app de radio para ver si la música mejora tu animo, te sirves un trago&amp;hellip; no estas seguro si tienes hambre, abres el refrigerador a ver que te apetece, tienes ganas de algo, pero no sabes que&amp;hellip;</description>
+      
     </item>
     
     <item>
@@ -43,6 +44,7 @@ GoodReads link</description>
       <guid>/posts/2020/cadera/</guid>
       <description>Los que me conocen en persona saben que mi caminar no es parejo, desde que tengo memoria he usado zapatos ortopédicos y/o plantillas especiales para aminorar el desnivel que tengo en mi pierna derecha para permitirme llevar una vida normal y sin necesidad de asistencia.
 El diagnostico de mi condición es: &amp;ldquo;displasia congénita de cadera derecha&amp;rdquo;, en mi infancia temprana pase varios años de doctor en doctor y de hospital en hospital, e incluso estuve a punto que me intervinieran quirúrgicamente, pero se tomo la decisión de no hacerlo, y que ya adulto yo evaluaría si me la haría o no.</description>
+      
     </item>
     
     <item>
@@ -53,6 +55,7 @@ El diagnostico de mi condición es: &amp;ldquo;displasia congénita de cadera de
       <guid>/posts/2019/navidad/</guid>
       <description>Por alguna razón este año me siento con mas espíritu navideño, usualmente navidad y año nuevo no me llamaban la atención, por lo general me caían gordas las personas que andaban todas felices y sonrientes en estos días, algo así:
 .twitter-tweet { font: 14px/1.45 -apple-system,BlinkMacSystemFont,&#34;Segoe UI&#34;,Roboto,Oxygen-Sans,Ubuntu,Cantarell,&#34;Helvetica Neue&#34;,sans-serif; border-left: 4px solid #2b7bb9; padding-left: 1.</description>
+      
     </item>
     
     <item>
@@ -62,6 +65,7 @@ El diagnostico de mi condición es: &amp;ldquo;displasia congénita de cadera de
       
       <guid>/posts/2019/sisifo/</guid>
       <description>Cuando pongo en perspectiva lo que he hecho y donde estoy invariablemente salen estos pensamientos a relucir. Mas allá de ambiciones, metas, retos, logros personales y competencias laborales, no puedo decir que el progreso personal laboral me haya llenado o me haya dado un sentido de realización en la vida; mas allá de el rush inicial por el logro o meta cumplida, obstáculo superado o reto alcanzado; Inevitablemente, al poco tiempo, viene a la mente este tipo de pensamientos ¿ y ahora que sigue ?</description>
+      
     </item>
     
     <item>
@@ -71,6 +75,7 @@ El diagnostico de mi condición es: &amp;ldquo;displasia congénita de cadera de
       
       <guid>/posts/2019/amistad/</guid>
       <description>El sabado pasado fue la reunión de la secundaria a 30 años de habernos conocido. No tenia intención de ir ya que había estado enfermo por cuatro semanas y estaba en recuperación. Cuatro días antes de la reunión me llega un whatsapp una compañera del grupo preguntándome porque no contestaba y por si estaba bien, le platique mi situación.</description>
+      
     </item>
     
     <item>
@@ -81,6 +86,7 @@ El diagnostico de mi condición es: &amp;ldquo;displasia congénita de cadera de
       <guid>/posts/2019/recovering/</guid>
       <description>Health Last saturday got my second b12 shot, and had long week in MX due Revolution Day (México) which I used to take some rest and recover. I am feeling better than last week. I can&amp;rsquo;t wait to go back to biking again.
 .twitter-tweet { font: 14px/1.45 -apple-system,BlinkMacSystemFont,&#34;Segoe UI&#34;,Roboto,Oxygen-Sans,Ubuntu,Cantarell,&#34;Helvetica Neue&#34;,sans-serif; border-left: 4px solid #2b7bb9; padding-left: 1.</description>
+      
     </item>
     
     <item>
@@ -91,6 +97,7 @@ El diagnostico de mi condición es: &amp;ldquo;displasia congénita de cadera de
       <guid>/posts/2019/blogging/</guid>
       <description>work Kubecon San Diego starts this week, we are excited to show a demo:
  The Future is Serverless AI See a doodle come to life as a picture with full details delivered by Deep Learning Reference Stack in a serverless function-as-a-service way both in cloud and edge.  More info: https://01.</description>
+      
     </item>
     
   </channel>

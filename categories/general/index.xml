@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>general on Patux&#39;s home</title>
     <link>/categories/general/</link>
@@ -19,6 +19,7 @@
       
       <guid>/posts/2018/glo_reunion_february/</guid>
       <description>Se esta organizando una reunion del Grupo Linux de Occidente, casi despues de 20 años de su fundacion. Sera interesante asistir y ver las caras de viejos amigos, camaradas y ver que ha sido de nosotros despues de tantas guerras santas, ideales y vision acerca del futuro dominado por un sistema libre y de codigo abierto.</description>
+      
     </item>
     
     <item>
@@ -30,6 +31,7 @@
       <description>After almost a year out, I am bringing my personal site and blog back to life.
 Lots and lots of blog post and personal history and growth trough my journey in the open source and software technology are lost&amp;hellip; Anyway, we must move on&amp;hellip;
 This is the first of my post to held random toughts, some of them about technology, sometimes just to held list of likns that I thought are interested to go back and review sometime in the future, sometimes social events related to technology (like meetups, conferences, etc).</description>
+      
     </item>
     
   </channel>

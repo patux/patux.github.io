@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Patux&#39;s home</title>
     <link>/categories/</link>
@@ -19,6 +19,7 @@
       
       <guid>/categories/hobbies/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -28,6 +29,7 @@
       
       <guid>/categories/personal/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -37,6 +39,7 @@
       
       <guid>/categories/technology/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -46,6 +49,7 @@
       
       <guid>/categories/work/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -55,6 +59,7 @@
       
       <guid>/categories/general/</guid>
       <description></description>
+      
     </item>
     
   </channel>

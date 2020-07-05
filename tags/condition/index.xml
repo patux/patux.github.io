@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>condition on Patux&#39;s home</title>
     <link>/tags/condition/</link>
@@ -20,6 +20,7 @@
       <guid>/posts/2020/cadera/</guid>
       <description>Los que me conocen en persona saben que mi caminar no es parejo, desde que tengo memoria he usado zapatos ortopédicos y/o plantillas especiales para aminorar el desnivel que tengo en mi pierna derecha para permitirme llevar una vida normal y sin necesidad de asistencia.
 El diagnostico de mi condición es: &amp;ldquo;displasia congénita de cadera derecha&amp;rdquo;, en mi infancia temprana pase varios años de doctor en doctor y de hospital en hospital, e incluso estuve a punto que me intervinieran quirúrgicamente, pero se tomo la decisión de no hacerlo, y que ya adulto yo evaluaría si me la haría o no.</description>
+      
     </item>
     
   </channel>

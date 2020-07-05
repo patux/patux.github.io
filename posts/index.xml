@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Patux&#39;s home</title>
     <link>/posts/</link>
@@ -20,6 +20,7 @@
       <guid>/posts/2020/bunuel/</guid>
       <description>Soy admirador de Luis Buñuel y sus películas.
 Un Perro Andaluz Con la colaboracion en el guion de Salvador Dalí   Belle de Jour   El Angel Exterminador   Los Olvidados   Viridiana   Nazarin   Simon del Desierto   Ensayo de Un Crimen   La Ilusion Viaja en Tranvia   El   El Fantasma de la Libertad En italiano</description>
+      
     </item>
     
     <item>
@@ -30,10 +31,10 @@ Un Perro Andaluz Con la colaboracion en el guion de Salvador Dalí   Belle de Jo
       <guid>/posts/2020/melancholia/</guid>
       <description>A prhase - which I remembered last night after I drank a couple scotches
  No se extraña lo que nunca se ha tenido&amp;hellip;
- A song  A gif 
-An image &#34;Starry Night Over the Rhone&#34; by 宇中蜃楼 is licensed under CC BY-SA 2.0
-A book 
-GoodReads link</description>
+ A song  A gif An image &#34;Starry Night Over the Rhone&#34; by 宇中蜃楼 is licensed under CC BY-SA 2.0
+A book GoodReads link
+A movie  Netflix Link</description>
+      
     </item>
     
     <item>
@@ -43,6 +44,7 @@ GoodReads link</description>
       
       <guid>/posts/2020/la-realidad-supera-a-la-ficcion/</guid>
       <description>Hace 3 días vi la película &amp;ldquo;The Current War&amp;rdquo;   Trata sobre la guerra de las corrientes y me pareció una película entretenida, sin embargo como en muchas películas se toman mucha libertad creativa, ya que presentan a un Edison pobre, inventor, genio y muy competitivo. Edison en realidad era ante todo un empresario, inventor eso si pero principalmente un empresario, y, como muchos empresarios estaba dispuesto a promover actos cuestionables con tal de ganar.</description>
+      
     </item>
     
     <item>
@@ -52,6 +54,7 @@ GoodReads link</description>
       
       <guid>/posts/2020/tienes-ganas-de-algo-pero-no-sabes-que/</guid>
       <description>Llegas a casa, estas fastidiado, los pendientes del trabajo aun no se desconectan del todo, casi en automático tomas la iPad y le picas a la app de radio para ver si la música mejora tu animo, te sirves un trago&amp;hellip; no estas seguro si tienes hambre, abres el refrigerador a ver que te apetece, tienes ganas de algo, pero no sabes que&amp;hellip;</description>
+      
     </item>
     
     <item>
@@ -61,6 +64,7 @@ GoodReads link</description>
       
       <guid>/posts/2020/oscars2020/</guid>
       <description>&lt;p&gt;Here is my list of favorites to win for some categories in the upcomming &lt;a href=&#34;https://www.oscars.org/oscars/ceremonies/2020&#34;target=&#34;_blank&#34;&gt;92th Academy Awards ceremony&lt;/a&gt;&lt;/p&gt;</description>
+      
     </item>
     
     <item>
@@ -72,6 +76,7 @@ GoodReads link</description>
       <description>Good summary from the New York Times on How Bezos Phone Was Hacked, the article clearly states that the phone used by Bezos was an iphone X.
 The end statement of the article is so true 😔
  “It basically means that we are all extremely vulnerable” - Agnes Callamard</description>
+      
     </item>
     
     <item>
@@ -82,6 +87,7 @@ The end statement of the article is so true 😔
       <guid>/posts/2020/cadera/</guid>
       <description>Los que me conocen en persona saben que mi caminar no es parejo, desde que tengo memoria he usado zapatos ortopédicos y/o plantillas especiales para aminorar el desnivel que tengo en mi pierna derecha para permitirme llevar una vida normal y sin necesidad de asistencia.
 El diagnostico de mi condición es: &amp;ldquo;displasia congénita de cadera derecha&amp;rdquo;, en mi infancia temprana pase varios años de doctor en doctor y de hospital en hospital, e incluso estuve a punto que me intervinieran quirúrgicamente, pero se tomo la decisión de no hacerlo, y que ya adulto yo evaluaría si me la haría o no.</description>
+      
     </item>
     
     <item>
@@ -92,6 +98,7 @@ El diagnostico de mi condición es: &amp;ldquo;displasia congénita de cadera de
       <guid>/posts/2019/misoundtrack2019-2014/</guid>
       <description>En el 2014 comencé de crear un playlist por año, básicamente al inicio de cada año creo una nueva playlist en spotify y conforme pasa el año y escucho rolas que me gustan (principalmente nuevas o que no había escuchado) las voy agregando al playlist del mismo.
 Inicie este ejercicio porque en algún lado no se donde (me parece que en alguna película) escuche la siguiente pregunta: ¿ Cual seria el soundtrack de tu vida ?</description>
+      
     </item>
     
     <item>
@@ -102,6 +109,7 @@ Inicie este ejercicio porque en algún lado no se donde (me parece que en alguna
       <guid>/posts/2019/navidad/</guid>
       <description>Por alguna razón este año me siento con mas espíritu navideño, usualmente navidad y año nuevo no me llamaban la atención, por lo general me caían gordas las personas que andaban todas felices y sonrientes en estos días, algo así:
 .twitter-tweet { font: 14px/1.45 -apple-system,BlinkMacSystemFont,&#34;Segoe UI&#34;,Roboto,Oxygen-Sans,Ubuntu,Cantarell,&#34;Helvetica Neue&#34;,sans-serif; border-left: 4px solid #2b7bb9; padding-left: 1.</description>
+      
     </item>
     
     <item>
@@ -111,6 +119,7 @@ Inicie este ejercicio porque en algún lado no se donde (me parece que en alguna
       
       <guid>/posts/2019/sisifo/</guid>
       <description>Cuando pongo en perspectiva lo que he hecho y donde estoy invariablemente salen estos pensamientos a relucir. Mas allá de ambiciones, metas, retos, logros personales y competencias laborales, no puedo decir que el progreso personal laboral me haya llenado o me haya dado un sentido de realización en la vida; mas allá de el rush inicial por el logro o meta cumplida, obstáculo superado o reto alcanzado; Inevitablemente, al poco tiempo, viene a la mente este tipo de pensamientos ¿ y ahora que sigue ?</description>
+      
     </item>
     
     <item>
@@ -120,6 +129,7 @@ Inicie este ejercicio porque en algún lado no se donde (me parece que en alguna
       
       <guid>/posts/2019/amistad/</guid>
       <description>El sabado pasado fue la reunión de la secundaria a 30 años de habernos conocido. No tenia intención de ir ya que había estado enfermo por cuatro semanas y estaba en recuperación. Cuatro días antes de la reunión me llega un whatsapp una compañera del grupo preguntándome porque no contestaba y por si estaba bien, le platique mi situación.</description>
+      
     </item>
     
     <item>
@@ -130,6 +140,7 @@ Inicie este ejercicio porque en algún lado no se donde (me parece que en alguna
       <guid>/posts/2019/recovering/</guid>
       <description>Health Last saturday got my second b12 shot, and had long week in MX due Revolution Day (México) which I used to take some rest and recover. I am feeling better than last week. I can&amp;rsquo;t wait to go back to biking again.
 .twitter-tweet { font: 14px/1.45 -apple-system,BlinkMacSystemFont,&#34;Segoe UI&#34;,Roboto,Oxygen-Sans,Ubuntu,Cantarell,&#34;Helvetica Neue&#34;,sans-serif; border-left: 4px solid #2b7bb9; padding-left: 1.</description>
+      
     </item>
     
     <item>
@@ -140,6 +151,7 @@ Inicie este ejercicio porque en algún lado no se donde (me parece que en alguna
       <guid>/posts/2019/blogging/</guid>
       <description>work Kubecon San Diego starts this week, we are excited to show a demo:
  The Future is Serverless AI See a doodle come to life as a picture with full details delivered by Deep Learning Reference Stack in a serverless function-as-a-service way both in cloud and edge.  More info: https://01.</description>
+      
     </item>
     
     <item>
@@ -150,6 +162,7 @@ Inicie este ejercicio porque en algún lado no se donde (me parece que en alguna
       <guid>/posts/2018/oscars2018/</guid>
       <description>Here is my list of favorites to win for some categories in the upcomming 90th Academy Awards ceremony
 Best Picture:  “Call Me by Your Name” “Darkest Hour” “Dunkirk” “Get Out” “Lady Bird” “Phantom Thread” “The Post” “The Shape of Water” “Three Billboards Outside Ebbing, Missouri”  Lead Actor:  Timothée Chalamet, “Call Me by Your Name” Daniel Day-Lewis, “Phantom Thread” Daniel Kaluuya, “Get Out” Gary Oldman, “Darkest Hour” Denzel Washington, “Roman J.</description>
+      
     </item>
     
     <item>
@@ -159,6 +172,7 @@ Best Picture:  “Call Me by Your Name” “Darkest Hour” “Dunkirk” “Ge
       
       <guid>/posts/2018/glo_reunion_february/</guid>
       <description>Se esta organizando una reunion del Grupo Linux de Occidente, casi despues de 20 años de su fundacion. Sera interesante asistir y ver las caras de viejos amigos, camaradas y ver que ha sido de nosotros despues de tantas guerras santas, ideales y vision acerca del futuro dominado por un sistema libre y de codigo abierto.</description>
+      
     </item>
     
     <item>
@@ -170,6 +184,7 @@ Best Picture:  “Call Me by Your Name” “Darkest Hour” “Dunkirk” “Ge
       <description>After almost a year out, I am bringing my personal site and blog back to life.
 Lots and lots of blog post and personal history and growth trough my journey in the open source and software technology are lost&amp;hellip; Anyway, we must move on&amp;hellip;
 This is the first of my post to held random toughts, some of them about technology, sometimes just to held list of likns that I thought are interested to go back and review sometime in the future, sometimes social events related to technology (like meetups, conferences, etc).</description>
+      
     </item>
     
   </channel>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>english on Patux&#39;s home</title>
     <link>/tags/english/</link>
@@ -20,10 +20,10 @@
       <guid>/posts/2020/melancholia/</guid>
       <description>A prhase - which I remembered last night after I drank a couple scotches
  No se extraña lo que nunca se ha tenido&amp;hellip;
- A song  A gif 
-An image &#34;Starry Night Over the Rhone&#34; by 宇中蜃楼 is licensed under CC BY-SA 2.0
-A book 
-GoodReads link</description>
+ A song  A gif An image &#34;Starry Night Over the Rhone&#34; by 宇中蜃楼 is licensed under CC BY-SA 2.0
+A book GoodReads link
+A movie  Netflix Link</description>
+      
     </item>
     
     <item>
@@ -33,6 +33,7 @@ GoodReads link</description>
       
       <guid>/posts/2020/oscars2020/</guid>
       <description>&lt;p&gt;Here is my list of favorites to win for some categories in the upcomming &lt;a href=&#34;https://www.oscars.org/oscars/ceremonies/2020&#34;target=&#34;_blank&#34;&gt;92th Academy Awards ceremony&lt;/a&gt;&lt;/p&gt;</description>
+      
     </item>
     
     <item>
@@ -44,6 +45,7 @@ GoodReads link</description>
       <description>Good summary from the New York Times on How Bezos Phone Was Hacked, the article clearly states that the phone used by Bezos was an iphone X.
 The end statement of the article is so true 😔
  “It basically means that we are all extremely vulnerable” - Agnes Callamard</description>
+      
     </item>
     
     <item>
@@ -54,6 +56,7 @@ The end statement of the article is so true 😔
       <guid>/posts/2019/recovering/</guid>
       <description>Health Last saturday got my second b12 shot, and had long week in MX due Revolution Day (México) which I used to take some rest and recover. I am feeling better than last week. I can&amp;rsquo;t wait to go back to biking again.
 .twitter-tweet { font: 14px/1.45 -apple-system,BlinkMacSystemFont,&#34;Segoe UI&#34;,Roboto,Oxygen-Sans,Ubuntu,Cantarell,&#34;Helvetica Neue&#34;,sans-serif; border-left: 4px solid #2b7bb9; padding-left: 1.</description>
+      
     </item>
     
     <item>
@@ -64,6 +67,7 @@ The end statement of the article is so true 😔
       <guid>/posts/2019/blogging/</guid>
       <description>work Kubecon San Diego starts this week, we are excited to show a demo:
  The Future is Serverless AI See a doodle come to life as a picture with full details delivered by Deep Learning Reference Stack in a serverless function-as-a-service way both in cloud and edge.  More info: https://01.</description>
+      
     </item>
     
     <item>
@@ -74,6 +78,7 @@ The end statement of the article is so true 😔
       <guid>/posts/2018/oscars2018/</guid>
       <description>Here is my list of favorites to win for some categories in the upcomming 90th Academy Awards ceremony
 Best Picture:  “Call Me by Your Name” “Darkest Hour” “Dunkirk” “Get Out” “Lady Bird” “Phantom Thread” “The Post” “The Shape of Water” “Three Billboards Outside Ebbing, Missouri”  Lead Actor:  Timothée Chalamet, “Call Me by Your Name” Daniel Day-Lewis, “Phantom Thread” Daniel Kaluuya, “Get Out” Gary Oldman, “Darkest Hour” Denzel Washington, “Roman J.</description>
+      
     </item>
     
     <item>
@@ -85,6 +90,7 @@ Best Picture:  “Call Me by Your Name” “Darkest Hour” “Dunkirk” “Ge
       <description>After almost a year out, I am bringing my personal site and blog back to life.
 Lots and lots of blog post and personal history and growth trough my journey in the open source and software technology are lost&amp;hellip; Anyway, we must move on&amp;hellip;
 This is the first of my post to held random toughts, some of them about technology, sometimes just to held list of likns that I thought are interested to go back and review sometime in the future, sometimes social events related to technology (like meetups, conferences, etc).</description>
+      
     </item>
     
   </channel>
