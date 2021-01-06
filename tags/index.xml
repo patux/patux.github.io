@@ -7,17 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>This is a personal web page. Things said here do not represent the position of my employer, ©2018-2020</copyright>
-    <lastBuildDate>Sun, 13 Dec 2020 18:27:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Jan 2021 21:03:29 -0600</lastBuildDate>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>2020</title>
-      <link>/tags/2020/</link>
-      <pubDate>Sun, 13 Dec 2020 18:27:37 +0000</pubDate>
+      <title>2021</title>
+      <link>/tags/2021/</link>
+      <pubDate>Tue, 05 Jan 2021 21:03:29 -0600</pubDate>
       
-      <guid>/tags/2020/</guid>
+      <guid>/tags/2021/</guid>
       <description></description>
       
     </item>
@@ -25,7 +25,7 @@
     <item>
       <title>family</title>
       <link>/tags/family/</link>
-      <pubDate>Sun, 13 Dec 2020 18:27:37 +0000</pubDate>
+      <pubDate>Tue, 05 Jan 2021 21:03:29 -0600</pubDate>
       
       <guid>/tags/family/</guid>
       <description></description>
@@ -35,7 +35,7 @@
     <item>
       <title>mourning</title>
       <link>/tags/mourning/</link>
-      <pubDate>Sun, 13 Dec 2020 18:27:37 +0000</pubDate>
+      <pubDate>Tue, 05 Jan 2021 21:03:29 -0600</pubDate>
       
       <guid>/tags/mourning/</guid>
       <description></description>
@@ -45,9 +45,19 @@
     <item>
       <title>spanish</title>
       <link>/tags/spanish/</link>
-      <pubDate>Sun, 13 Dec 2020 18:27:37 +0000</pubDate>
+      <pubDate>Tue, 05 Jan 2021 21:03:29 -0600</pubDate>
       
       <guid>/tags/spanish/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>2020</title>
+      <link>/tags/2020/</link>
+      <pubDate>Sun, 13 Dec 2020 18:27:37 +0000</pubDate>
+      
+      <guid>/tags/2020/</guid>
       <description></description>
       
     </item>
