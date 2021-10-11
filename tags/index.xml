@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>This is a personal web page. Things said here do not represent the position of my employer, ©2018-2020</copyright>
-    <lastBuildDate>Fri, 25 Jun 2021 04:47:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Oct 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,49 @@
     <item>
       <title>2021</title>
       <link>/tags/2021/</link>
-      <pubDate>Fri, 25 Jun 2021 04:47:01 +0000</pubDate>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/2021/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>life</title>
+      <link>/tags/life/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/life/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>self</title>
+      <link>/tags/self/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/self/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>spanish</title>
+      <link>/tags/spanish/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/spanish/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>time</title>
+      <link>/tags/time/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/time/</guid>
       <description></description>
       
     </item>
@@ -28,16 +68,6 @@
       <pubDate>Fri, 25 Jun 2021 04:47:01 +0000</pubDate>
       
       <guid>/tags/family/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>spanish</title>
-      <link>/tags/spanish/</link>
-      <pubDate>Fri, 25 Jun 2021 04:47:01 +0000</pubDate>
-      
-      <guid>/tags/spanish/</guid>
       <description></description>
       
     </item>
@@ -178,16 +208,6 @@
       <pubDate>Fri, 01 May 2020 02:46:10 +0000</pubDate>
       
       <guid>/tags/westinghouse/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>life</title>
-      <link>/tags/life/</link>
-      <pubDate>Sat, 15 Feb 2020 22:26:56 -0600</pubDate>
-      
-      <guid>/tags/life/</guid>
       <description></description>
       
     </item>
