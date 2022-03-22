@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>This is a personal web page. Things said here do not represent the position of my employer, ©2018-2020</copyright>
-    <lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Oct 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Posts</title>
       <link>/posts/</link>
-      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>/posts/</guid>
       <description></description>
@@ -28,7 +28,7 @@
       <pubDate>Mon, 16 Dec 2019 15:41:01 -0600</pubDate>
       
       <guid>/about/</guid>
-      <description>Work Sr. Engineering Manager, working with Open Source Software for about 20 years, former Cloud Developer, Software Developer, Sysadmin and Q.A. Engineer.
+      <description>Work Sr. Engineering Manager, working with Open Source Software for about 22 years, former Cloud Developer, Systems Programmer, Sysadmin, Q.A. Engineer and Programmer.
 Hobbies  Swim - I usually swim 2-3 days a week Biking - Heavily attached to biking, I use bike usually to go visit family and friends and shopping or just for fun, usually do mountain biking, once or twice every two weeks.</description>
       
     </item>
