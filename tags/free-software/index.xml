@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>mexico on Patux&#39;s home</title>
-    <link>/tags/mexico/</link>
-    <description>Recent content in mexico on Patux&#39;s home</description>
+    <title>free software on Patux&#39;s home</title>
+    <link>/tags/free-software/</link>
+    <description>Recent content in free software on Patux&#39;s home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>This is a personal web page. Things said here do not represent the position of my employer, ©2018-2020</copyright>
     <lastBuildDate>Sat, 26 Mar 2022 00:25:53 -0600</lastBuildDate>
     
-        <atom:link href="/tags/mexico/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/free-software/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,16 +21,6 @@
       <description>El miércoles pasado me hicieron una entrevista en La Jaula del n00b un podcast en español sobre tecnología y hacking.
 Tenia mucho tiempo sin hacer entrevistas, creo que estaba un poco rusty 😅 pero me gusto mucho participar.
 Muy contento y honrado de haber sido invitado al programa muchas gracias a Hector López.</description>
-      
-    </item>
-    
-    <item>
-      <title>Reunion GLO Febrero 2018</title>
-      <link>/posts/2018/glo_reunion_february/</link>
-      <pubDate>Mon, 19 Feb 2018 00:55:56 -0600</pubDate>
-      
-      <guid>/posts/2018/glo_reunion_february/</guid>
-      <description>Se esta organizando una reunion del Grupo Linux de Occidente, casi despues de 20 años de su fundacion. Sera interesante asistir y ver las caras de viejos amigos, camaradas y ver que ha sido de nosotros despues de tantas guerras santas, ideales y vision acerca del futuro dominado por un sistema libre y de codigo abierto.</description>
       
     </item>
     

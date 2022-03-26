@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>This is a personal web page. Things said here do not represent the position of my employer, ©2018-2020</copyright>
-    <lastBuildDate>Fri, 01 May 2020 02:46:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Mar 2022 00:25:53 -0600</lastBuildDate>
     
         <atom:link href="/categories/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Entrevista en La jaula del n00b</title>
+      <link>/posts/2022/entrevista/</link>
+      <pubDate>Sat, 26 Mar 2022 00:25:53 -0600</pubDate>
+      
+      <guid>/posts/2022/entrevista/</guid>
+      <description>El miércoles pasado me hicieron una entrevista en La Jaula del n00b un podcast en español sobre tecnología y hacking.
+Tenia mucho tiempo sin hacer entrevistas, creo que estaba un poco rusty 😅 pero me gusto mucho participar.
+Muy contento y honrado de haber sido invitado al programa muchas gracias a Hector López.</description>
+      
+    </item>
     
     <item>
       <title>la realidad supera a la ficción</title>

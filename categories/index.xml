@@ -7,15 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>This is a personal web page. Things said here do not represent the position of my employer, ©2018-2020</copyright>
-    <lastBuildDate>Sun, 10 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Mar 2022 00:25:53 -0600</lastBuildDate>
     
         <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>technology</title>
+      <link>/categories/technology/</link>
+      <pubDate>Sat, 26 Mar 2022 00:25:53 -0600</pubDate>
+      
+      <guid>/categories/technology/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>personal</title>
       <link>/categories/personal/</link>
-      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 -0500</pubDate>
       
       <guid>/categories/personal/</guid>
       <description></description>
@@ -28,16 +38,6 @@
       <pubDate>Sun, 21 Jun 2020 19:47:26 +0000</pubDate>
       
       <guid>/categories/hobbies/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>technology</title>
-      <link>/categories/technology/</link>
-      <pubDate>Fri, 01 May 2020 02:46:10 +0000</pubDate>
-      
-      <guid>/categories/technology/</guid>
       <description></description>
       
     </item>
