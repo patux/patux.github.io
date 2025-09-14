@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>This is a personal web page. Things said here do not represent the position of my employer, ©2018-2020</copyright>
-    <lastBuildDate>Wed, 03 Sep 2025 10:42:13 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 19:11:07 -0600</lastBuildDate>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,39 @@
     <item>
       <title>2025</title>
       <link>/tags/2025/</link>
-      <pubDate>Wed, 03 Sep 2025 10:42:13 -0600</pubDate>
+      <pubDate>Sat, 13 Sep 2025 19:11:07 -0600</pubDate>
       
       <guid>/tags/2025/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>english</title>
+      <link>/tags/english/</link>
+      <pubDate>Sat, 13 Sep 2025 19:11:07 -0600</pubDate>
+      
+      <guid>/tags/english/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>life</title>
+      <link>/tags/life/</link>
+      <pubDate>Sat, 13 Sep 2025 19:11:07 -0600</pubDate>
+      
+      <guid>/tags/life/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>spanish</title>
+      <link>/tags/spanish/</link>
+      <pubDate>Sat, 13 Sep 2025 19:11:07 -0600</pubDate>
+      
+      <guid>/tags/spanish/</guid>
       <description></description>
       
     </item>
@@ -28,26 +58,6 @@
       <pubDate>Wed, 03 Sep 2025 10:42:13 -0600</pubDate>
       
       <guid>/tags/art/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>life</title>
-      <link>/tags/life/</link>
-      <pubDate>Wed, 03 Sep 2025 10:42:13 -0600</pubDate>
-      
-      <guid>/tags/life/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>spanish</title>
-      <link>/tags/spanish/</link>
-      <pubDate>Wed, 03 Sep 2025 10:42:13 -0600</pubDate>
-      
-      <guid>/tags/spanish/</guid>
       <description></description>
       
     </item>
@@ -208,16 +218,6 @@
       <pubDate>Sun, 21 Jun 2020 19:47:26 +0000</pubDate>
       
       <guid>/tags/movies/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>english</title>
-      <link>/tags/english/</link>
-      <pubDate>Sat, 09 May 2020 20:16:31 +0000</pubDate>
-      
-      <guid>/tags/english/</guid>
       <description></description>
       
     </item>
