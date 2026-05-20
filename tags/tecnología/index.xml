@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tecnología on Geronimo Orozco</title>
+    <link>https://www.patux.net/tags/tecnolog%C3%ADa/</link>
+    <description>Recent content in Tecnología on Geronimo Orozco</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <copyright>Este es blog personal. Las cosas dichas aqui no representan la opinion de mi empleador , ©2018-2026</copyright>
+    <lastBuildDate>Sat, 26 Mar 2022 00:25:53 -0600</lastBuildDate>
+    <atom:link href="https://www.patux.net/tags/tecnolog%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entrevista en La jaula del n00b</title>
+      <link>https://www.patux.net/posts/2022/entrevista/</link>
+      <pubDate>Sat, 26 Mar 2022 00:25:53 -0600</pubDate>
+      <guid>https://www.patux.net/posts/2022/entrevista/</guid>
+      <description>&lt;p&gt;El miércoles pasado me hicieron una entrevista en &lt;a href=&#34;https://www.podnation.co/show/la-jaula-del-n00b/episode/entrevista-en-la-jaula-del-n00b-con-geronimo-orozco-aka-patux&#34;&gt;La Jaula del n00b&lt;/a&gt; un podcast en español sobre tecnología y hacking.&lt;/p&gt;
+&lt;p&gt;Tenia mucho tiempo sin hacer entrevistas, creo que estaba un poco rusty :sweat_smile: pero me gusto mucho participar.&lt;/p&gt;
+&lt;p&gt;Muy contento y honrado de haber sido invitado al programa muchas gracias a Hector López.&lt;/p&gt;
+&lt;p&gt;Me acabo de dar cuenta del alcance del podcast es mas grande del que pensaba hay version del podcast en todos los formatos :anguished: OMG.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>La realidad supera a la ficción</title>
+      <link>https://www.patux.net/posts/2020/la-realidad-supera-a-la-ficcion/</link>
+      <pubDate>Fri, 01 May 2020 02:46:10 +0000</pubDate>
+      <guid>https://www.patux.net/posts/2020/la-realidad-supera-a-la-ficcion/</guid>
+      <description>&lt;p&gt;Hace 3 días vi la película &lt;a href=&#34;https://www.imdb.com/title/tt2140507/&#34;&gt;&amp;ldquo;The Current War&amp;rdquo;&lt;/a&gt; &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/2FTxKFsWz60?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+ Trata sobre &lt;a href=&#34;https://es.wikipedia.org/wiki/Guerra_de_las_corrientes&#34;&gt;la guerra de las corrientes&lt;/a&gt; y me pareció una película entretenida, sin embargo como en muchas películas se toman mucha libertad creativa, ya que presentan a un Edison pobre,  inventor, genio y muy competitivo. Edison en realidad era ante todo un empresario, inventor eso si pero principalmente un empresario, y, como muchos empresarios estaba dispuesto a promover actos cuestionables con tal de ganar. En 1903 &lt;a href=&#34;https://en.wikipedia.org/wiki/Electrocuting_an_Elephant&#34;&gt;electrocutaron un elefante&lt;/a&gt; usando corriente alterna para desprestigiar la corriente alterna (de su competencia) y favorecer la corriente continua que es la que el vendía MUCHÍSIMO mas cara. El nacimiento de la &lt;a href=&#34;https://es.wikipedia.org/wiki/Silla_el%C3%A9ctrica&#34;&gt;silla eléctrica&lt;/a&gt; también esta asociado a Edison aunque no directamente (Un empleado de Edison la desarrollo).
+Ademas esta película se minimiza el impacto y participación de Tesla y resaltan en cambio a Westinghouse, lo cual como ingeniero, me parece ofensivo y muy injusto.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>cómo hackearon el teléfono de bezos</title>
+      <link>https://www.patux.net/posts/2020/como-hackearon-el-telefono-de-bezos/</link>
+      <pubDate>Mon, 27 Jan 2020 04:58:26 +0000</pubDate>
+      <guid>https://www.patux.net/posts/2020/como-hackearon-el-telefono-de-bezos/</guid>
+      <description>&lt;p&gt;Buen resumen del &lt;a href=&#34;https://www.nytimes.com/&#34;&gt;New York Times&lt;/a&gt; sobre &lt;a href=&#34;https://www.nytimes.com/2020/01/22/technology/jeff-bezos-hack-iphone.html&#34;&gt;Cómo Hackearon el Teléfono de Bezos&lt;/a&gt;, el artículo indica claramente que el teléfono usado por Bezos era un iphone X.&lt;/p&gt;
+&lt;p&gt;La declaración final del artículo es muy cierta :pensive:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Básicamente significa que todos somos extremadamente vulnerables” - Agnes Callamard&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Reporte Técnico del Hackeo al Teléfono de Bezos &lt;a href=&#34;https://assets.documentcloud.org/documents/6668313/FTI-Report-into-Jeff-Bezos-Phone-Hack.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kubecon San Diego</title>
+      <link>https://www.patux.net/posts/2019/kubekon-san-diego-2019/</link>
+      <pubDate>Sun, 17 Nov 2019 23:52:02 -0600</pubDate>
+      <guid>https://www.patux.net/posts/2019/kubekon-san-diego-2019/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/&#34;&gt;Kubecon San Diego&lt;/a&gt; comienza esta semana, estamos emocionados de mostrar una demostración:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;El futuro es la IA Serverless&lt;/strong&gt;
+Mira cómo un garabato cobra vida como una imagen con todos los detalles entregados por el Deep Learning Reference Stack en una función como servicio (serverless) tanto en la nube como en el borde (edge).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Más información: &lt;a href=&#34;https://01.org/kubecon-cloudnativecon-san-diego-2019&#34;&gt;https://01.org/kubecon-cloudnativecon-san-diego-2019&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Intentaré retomar el blogging como una terapia ocupacional&amp;hellip; Veamos si funciona.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

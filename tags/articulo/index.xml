@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Articulo on Geronimo Orozco</title>
+    <link>https://www.patux.net/tags/articulo/</link>
+    <description>Recent content in Articulo on Geronimo Orozco</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <copyright>Este es blog personal. Las cosas dichas aqui no representan la opinion de mi empleador , ©2018-2026</copyright>
+    <lastBuildDate>Mon, 27 Jan 2020 04:58:26 +0000</lastBuildDate>
+    <atom:link href="https://www.patux.net/tags/articulo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cómo hackearon el teléfono de bezos</title>
+      <link>https://www.patux.net/posts/2020/como-hackearon-el-telefono-de-bezos/</link>
+      <pubDate>Mon, 27 Jan 2020 04:58:26 +0000</pubDate>
+      <guid>https://www.patux.net/posts/2020/como-hackearon-el-telefono-de-bezos/</guid>
+      <description>&lt;p&gt;Buen resumen del &lt;a href=&#34;https://www.nytimes.com/&#34;&gt;New York Times&lt;/a&gt; sobre &lt;a href=&#34;https://www.nytimes.com/2020/01/22/technology/jeff-bezos-hack-iphone.html&#34;&gt;Cómo Hackearon el Teléfono de Bezos&lt;/a&gt;, el artículo indica claramente que el teléfono usado por Bezos era un iphone X.&lt;/p&gt;
+&lt;p&gt;La declaración final del artículo es muy cierta :pensive:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Básicamente significa que todos somos extremadamente vulnerables” - Agnes Callamard&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Reporte Técnico del Hackeo al Teléfono de Bezos &lt;a href=&#34;https://assets.documentcloud.org/documents/6668313/FTI-Report-into-Jeff-Bezos-Phone-Hack.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,1 +1,3 @@
 User-agent: *
+Disallow:
+Sitemap: https://www.patux.net/sitemap.xml

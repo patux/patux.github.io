@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gerneral on Geronimo Orozco</title>
+    <link>https://www.patux.net/tags/gerneral/</link>
+    <description>Recent content in Gerneral on Geronimo Orozco</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <copyright>Este es blog personal. Las cosas dichas aqui no representan la opinion de mi empleador , ©2018-2026</copyright>
+    <lastBuildDate>Mon, 19 Feb 2018 00:00:42 -0600</lastBuildDate>
+    <atom:link href="https://www.patux.net/tags/gerneral/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Estamos de vuelta</title>
+      <link>https://www.patux.net/posts/2018/estamos-de-vuelta/</link>
+      <pubDate>Mon, 19 Feb 2018 00:00:42 -0600</pubDate>
+      <guid>https://www.patux.net/posts/2018/estamos-de-vuelta/</guid>
+      <description>&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://www.patux.net/images/patux_grandreopening.jpg&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;Después de casi un año fuera, estoy trayendo de vuelta mi sitio personal y blog a la vida.&lt;/p&gt;
+&lt;p&gt;Muchísimas publicaciones de blog e historia personal y crecimiento a través de mi viaje en el código abierto y la tecnología de software se han perdido&amp;hellip;
+De todos modos, debemos seguir adelante&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Esta es la primera de mis publicaciones para mantener pensamientos aleatorios, algunos sobre tecnología, a veces solo para mantener una lista de enlaces que pensé que eran interesantes para volver a revisar en algún momento en el futuro, a veces eventos sociales relacionados con la tecnología (como meetups, conferencias, etc). Y por último, pero no menos importante, pensamientos personales, quejas o experiencias sobre mi viaje de ser un Gerente de Ingeniería de Software en el Mundo del Código Abierto&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

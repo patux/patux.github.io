@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Software Libre on Geronimo Orozco</title>
+    <link>https://www.patux.net/tags/software-libre/</link>
+    <description>Recent content in Software Libre on Geronimo Orozco</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <copyright>Este es blog personal. Las cosas dichas aqui no representan la opinion de mi empleador , ©2018-2026</copyright>
+    <lastBuildDate>Sat, 26 Mar 2022 00:25:53 -0600</lastBuildDate>
+    <atom:link href="https://www.patux.net/tags/software-libre/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entrevista en La jaula del n00b</title>
+      <link>https://www.patux.net/posts/2022/entrevista/</link>
+      <pubDate>Sat, 26 Mar 2022 00:25:53 -0600</pubDate>
+      <guid>https://www.patux.net/posts/2022/entrevista/</guid>
+      <description>&lt;p&gt;El miércoles pasado me hicieron una entrevista en &lt;a href=&#34;https://www.podnation.co/show/la-jaula-del-n00b/episode/entrevista-en-la-jaula-del-n00b-con-geronimo-orozco-aka-patux&#34;&gt;La Jaula del n00b&lt;/a&gt; un podcast en español sobre tecnología y hacking.&lt;/p&gt;
+&lt;p&gt;Tenia mucho tiempo sin hacer entrevistas, creo que estaba un poco rusty :sweat_smile: pero me gusto mucho participar.&lt;/p&gt;
+&lt;p&gt;Muy contento y honrado de haber sido invitado al programa muchas gracias a Hector López.&lt;/p&gt;
+&lt;p&gt;Me acabo de dar cuenta del alcance del podcast es mas grande del que pensaba hay version del podcast en todos los formatos :anguished: OMG.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
