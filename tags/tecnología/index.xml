@@ -7,8 +7,24 @@
     <generator>Hugo</generator>
     <language>es</language>
     <copyright>Este es blog personal. Las cosas dichas aqui no representan la opinion de mi empleador , ©2018-2026</copyright>
-    <lastBuildDate>Sat, 26 Mar 2022 00:25:53 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 01:30:32 -0600</lastBuildDate>
     <atom:link href="https://www.patux.net/tags/tecnolog%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Actualización 2026: Una nueva cara para el blog</title>
+      <link>https://www.patux.net/posts/2026/actualizacion/</link>
+      <pubDate>Wed, 20 May 2026 01:30:32 -0600</pubDate>
+      <guid>https://www.patux.net/posts/2026/actualizacion/</guid>
+      <description>&lt;p&gt;¡Hola de nuevo!&lt;/p&gt;
+&lt;p&gt;Hacía tiempo de mi ultimo post, aproveche para dar una actualización real sobre el estado de este pequeño rincón en internet. Si has entrado recientemente, habrás notado que las cosas se ven un poco diferentes.&lt;/p&gt;
+&lt;p&gt;He decidido darle una limpieza profunda al blog y estos son los cambios principales:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Nuevo Diseño:&lt;/strong&gt; He migrado el sitio a &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;PaperMod&lt;/a&gt;. Buscaba algo más limpio, rápido y minimalista que me permitiera enfocarme en lo que realmente importa: &lt;strong&gt;&lt;em&gt;escribir&lt;/em&gt;&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Solo en Español:&lt;/strong&gt; Después de pensarlo un poco, decidi hacer este blog exclusivamente en español. He traducido o eliminado contenido antiguo para mantener una línea coherente.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Limpieza de Contenido:&lt;/strong&gt; He quitado varios posts que ya no sentía que aportaban mucho o que eran demasiado personales para este formato. Ahora el enfoque está más claro: &lt;em&gt;tecnología, filosofía y comunidades open source&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Configuración simplificada:&lt;/strong&gt; Todo el sitio ahora corre bajo YAML (adiós TOML) y uso Docker para que el proceso de compilación sea idéntico sin importar dónde esté.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Me gusta cómo está quedando todo. Se siente más ligero y directo. Espero poder compartir, con mayor enfoque en los temas antes mencionados.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Entrevista en La jaula del n00b</title>
       <link>https://www.patux.net/posts/2022/entrevista/</link>
