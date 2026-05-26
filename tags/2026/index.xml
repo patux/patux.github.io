@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>2026 on Geronimo Orozco</title>
+    <link>https://www.patux.net/tags/2026/</link>
+    <description>Recent content in 2026 on Geronimo Orozco</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Este es blog personal. Las cosas dichas aqui no representan la opinion de mi empleador , ©2018-2026</copyright>
+    <lastBuildDate>Mon, 25 May 2026 17:22:00 -0600</lastBuildDate>
+    <atom:link href="https://www.patux.net/tags/2026/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artesanía digital: Reviviendo a Epicteto y Maquiavelo con LaTeX e IA</title>
+      <link>https://www.patux.net/posts/2026/libros_e_ia/</link>
+      <pubDate>Mon, 25 May 2026 17:22:00 -0600</pubDate>
+      <guid>https://www.patux.net/posts/2026/libros_e_ia/</guid>
+      <description>&lt;p&gt;Hace unas semanas retomé un proyecto que tenía en el tintero: la creación de libros digitales con &lt;strong&gt;LaTeX&lt;/strong&gt;. Todo empezó cuando me topé con un repositorio en GitLab que me fascinó sobre cómo generar el &lt;em&gt;Enquiridión&lt;/em&gt; de Epicteto (uno de mis libros favoritos) en PDF usando LaTeX. El proyecto original tomaba el texto del &lt;a href=&#34;https://www.gutenberg.org/&#34;&gt;Proyecto Gutenberg&lt;/a&gt; y lograba un resultado de una elegancia y profesionalismo que pocas herramientas de edición modernas pueden replicar.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Actualización 2026: Una nueva cara para el blog</title>
+      <link>https://www.patux.net/posts/2026/actualizacion/</link>
+      <pubDate>Wed, 20 May 2026 01:30:32 -0600</pubDate>
+      <guid>https://www.patux.net/posts/2026/actualizacion/</guid>
+      <description>&lt;p&gt;Hacía tiempo de mi ultimo post, aproveche para dar una actualización real sobre el estado de este pequeño rincón en internet. Si has entrado recientemente, habrás notado que las cosas se ven un poco diferentes.&lt;/p&gt;
+&lt;p&gt;He decidido darle una limpieza profunda al blog y estos son los cambios principales:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Nuevo Diseño:&lt;/strong&gt; He migrado el sitio a &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;PaperMod&lt;/a&gt;. Buscaba algo más limpio, rápido y minimalista que me permitiera enfocarme en lo que realmente importa: &lt;strong&gt;&lt;em&gt;escribir&lt;/em&gt;&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Solo en Español:&lt;/strong&gt; Después de pensarlo un poco, decidi hacer este blog exclusivamente en español. He traducido o eliminado contenido antiguo para mantener una línea coherente.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Limpieza de Contenido:&lt;/strong&gt; He quitado varios posts que ya no sentía que aportaban mucho o que eran demasiado personales para este formato. Ahora el enfoque está más claro: &lt;em&gt;tecnología, filosofía y comunidades open source&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Configuración simplificada:&lt;/strong&gt; Todo el sitio ahora corre bajo YAML (adiós TOML) y uso Docker para que el proceso de compilación sea idéntico sin importar dónde esté.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Me gusta cómo está quedando todo. Se siente más ligero y directo. Espero poder compartir, con mayor enfoque en los temas antes mencionados.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
