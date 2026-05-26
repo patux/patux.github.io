@@ -7,8 +7,25 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Este es blog personal. Las cosas dichas aqui no representan la opinion de mi empleador , ©2018-2026</copyright>
-    <lastBuildDate>Mon, 19 Feb 2018 00:55:56 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 17:22:00 -0600</lastBuildDate>
     <atom:link href="https://www.patux.net/tags/opensource/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artesanía digital: Reviviendo a Epicteto y Maquiavelo con LaTeX e IA</title>
+      <link>https://www.patux.net/posts/2026/libros_e_ia/</link>
+      <pubDate>Mon, 25 May 2026 17:22:00 -0600</pubDate>
+      <guid>https://www.patux.net/posts/2026/libros_e_ia/</guid>
+      <description>&lt;p&gt;Hace unas semanas retomé un proyecto que tenía en el tintero: la creación de libros digitales con &lt;strong&gt;LaTeX&lt;/strong&gt;. Todo empezó cuando me topé con un repositorio en GitLab que me fascinó sobre cómo generar el &lt;em&gt;Enquiridión&lt;/em&gt; de Epicteto (uno de mis libros favoritos) en PDF usando LaTeX. El proyecto original tomaba el texto del &lt;a href=&#34;https://www.gutenberg.org/&#34;&gt;Proyecto Gutenberg&lt;/a&gt; y lograba un resultado de una elegancia y profesionalismo que pocas herramientas de edición modernas pueden replicar.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Entrevista en La jaula del n00b</title>
+      <link>https://www.patux.net/posts/2022/entrevista/</link>
+      <pubDate>Sat, 26 Mar 2022 00:25:53 -0600</pubDate>
+      <guid>https://www.patux.net/posts/2022/entrevista/</guid>
+      <description>&lt;p&gt;El miércoles pasado me hicieron una entrevista en &lt;a href=&#34;https://www.podnation.co/show/la-jaula-del-n00b/episode/entrevista-en-la-jaula-del-n00b-con-geronimo-orozco-aka-patux&#34;&gt;La Jaula del n00b&lt;/a&gt; un podcast en español sobre tecnología y hacking.&lt;/p&gt;
+&lt;p&gt;Tenia mucho tiempo sin hacer entrevistas, creo que estaba un poco rusty :sweat_smile: pero me gusto mucho participar.&lt;/p&gt;
+&lt;p&gt;Muy contento y honrado de haber sido invitado al programa muchas gracias a Hector López.&lt;/p&gt;
+&lt;p&gt;Me acabo de dar cuenta del alcance del podcast es mas grande del que pensaba hay version del podcast en todos los formatos :anguished: OMG.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Reunion GLO Febrero 2018</title>
       <link>https://www.patux.net/posts/2018/glo_reunion_february/</link>
