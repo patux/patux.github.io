@@ -5,10 +5,17 @@
     <link>https://www.patux.net/</link>
     <description>Recent content on Geronimo Orozco</description>
     <generator>Hugo</generator>
-    <language>es</language>
+    <language>en</language>
     <copyright>Este es blog personal. Las cosas dichas aqui no representan la opinion de mi empleador , ©2018-2026</copyright>
-    <lastBuildDate>Wed, 20 May 2026 01:30:32 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 17:22:00 -0600</lastBuildDate>
     <atom:link href="https://www.patux.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artesanía digital: Reviviendo a Epicteto y Maquiavelo con LaTeX e IA</title>
+      <link>https://www.patux.net/posts/2026/libros_e_ia/</link>
+      <pubDate>Mon, 25 May 2026 17:22:00 -0600</pubDate>
+      <guid>https://www.patux.net/posts/2026/libros_e_ia/</guid>
+      <description>&lt;p&gt;Hace unas semanas retomé un proyecto que tenía en el tintero: la creación de libros digitales con &lt;strong&gt;LaTeX&lt;/strong&gt;. Todo empezó cuando me topé con un repositorio en GitLab que me fascinó sobre cómo generar el &lt;em&gt;Enquiridión&lt;/em&gt; de Epicteto (uno de mis libros favoritos) en PDF usando LaTeX. El proyecto original tomaba el texto del &lt;a href=&#34;https://www.gutenberg.org/&#34;&gt;Proyecto Gutenberg&lt;/a&gt; y lograba un resultado de una elegancia y profesionalismo que pocas herramientas de edición modernas pueden replicar.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Actualización 2026: Una nueva cara para el blog</title>
       <link>https://www.patux.net/posts/2026/actualizacion/</link>

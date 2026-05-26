@@ -2,22 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.patux.net/posts/2026/libros_e_ia/</loc>
+    <lastmod>2026-05-25T17:22:00-06:00</lastmod>
+  </url><url>
+    <loc>https://www.patux.net/tags/filosof%C3%ADa/</loc>
+    <lastmod>2026-05-25T17:22:00-06:00</lastmod>
+  </url><url>
+    <loc>https://www.patux.net/</loc>
+    <lastmod>2026-05-25T17:22:00-06:00</lastmod>
+  </url><url>
+    <loc>https://www.patux.net/tags/ia/</loc>
+    <lastmod>2026-05-25T17:22:00-06:00</lastmod>
+  </url><url>
+    <loc>https://www.patux.net/tags/latex/</loc>
+    <lastmod>2026-05-25T17:22:00-06:00</lastmod>
+  </url><url>
+    <loc>https://www.patux.net/tags/libros/</loc>
+    <lastmod>2026-05-25T17:22:00-06:00</lastmod>
+  </url><url>
+    <loc>https://www.patux.net/tags/open-source/</loc>
+    <lastmod>2026-05-25T17:22:00-06:00</lastmod>
+  </url><url>
+    <loc>https://www.patux.net/posts/</loc>
+    <lastmod>2026-05-25T17:22:00-06:00</lastmod>
+  </url><url>
+    <loc>https://www.patux.net/tags/</loc>
+    <lastmod>2026-05-25T17:22:00-06:00</lastmod>
+  </url><url>
+    <loc>https://www.patux.net/tags/tecnolog%C3%ADa/</loc>
+    <lastmod>2026-05-25T17:22:00-06:00</lastmod>
+  </url><url>
     <loc>https://www.patux.net/posts/2026/actualizacion/</loc>
     <lastmod>2026-05-20T01:30:32-06:00</lastmod>
   </url><url>
     <loc>https://www.patux.net/tags/blog/</loc>
-    <lastmod>2026-05-20T01:30:32-06:00</lastmod>
-  </url><url>
-    <loc>https://www.patux.net/</loc>
-    <lastmod>2026-05-20T01:30:32-06:00</lastmod>
-  </url><url>
-    <loc>https://www.patux.net/posts/</loc>
-    <lastmod>2026-05-20T01:30:32-06:00</lastmod>
-  </url><url>
-    <loc>https://www.patux.net/tags/</loc>
-    <lastmod>2026-05-20T01:30:32-06:00</lastmod>
-  </url><url>
-    <loc>https://www.patux.net/tags/tecnolog%C3%ADa/</loc>
     <lastmod>2026-05-20T01:30:32-06:00</lastmod>
   </url><url>
     <loc>https://www.patux.net/tags/2025/</loc>
@@ -27,9 +45,6 @@
     <lastmod>2025-09-13T19:11:07-06:00</lastmod>
   </url><url>
     <loc>https://www.patux.net/tags/autorreflexi%C3%B3n/</loc>
-    <lastmod>2025-09-13T19:11:07-06:00</lastmod>
-  </url><url>
-    <loc>https://www.patux.net/tags/filosof%C3%ADa/</loc>
     <lastmod>2025-09-13T19:11:07-06:00</lastmod>
   </url><url>
     <loc>https://www.patux.net/tags/arte/</loc>
@@ -63,9 +78,6 @@
     <lastmod>2022-03-26T00:25:53-06:00</lastmod>
   </url><url>
     <loc>https://www.patux.net/tags/mexico/</loc>
-    <lastmod>2022-03-26T00:25:53-06:00</lastmod>
-  </url><url>
-    <loc>https://www.patux.net/tags/open-source/</loc>
     <lastmod>2022-03-26T00:25:53-06:00</lastmod>
   </url><url>
     <loc>https://www.patux.net/tags/software-libre/</loc>

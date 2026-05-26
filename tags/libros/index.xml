@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Libros on Geronimo Orozco</title>
+    <link>https://www.patux.net/tags/libros/</link>
+    <description>Recent content in Libros on Geronimo Orozco</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Este es blog personal. Las cosas dichas aqui no representan la opinion de mi empleador , ©2018-2026</copyright>
+    <lastBuildDate>Mon, 25 May 2026 17:22:00 -0600</lastBuildDate>
+    <atom:link href="https://www.patux.net/tags/libros/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artesanía digital: Reviviendo a Epicteto y Maquiavelo con LaTeX e IA</title>
+      <link>https://www.patux.net/posts/2026/libros_e_ia/</link>
+      <pubDate>Mon, 25 May 2026 17:22:00 -0600</pubDate>
+      <guid>https://www.patux.net/posts/2026/libros_e_ia/</guid>
+      <description>&lt;p&gt;Hace unas semanas retomé un proyecto que tenía en el tintero: la creación de libros digitales con &lt;strong&gt;LaTeX&lt;/strong&gt;. Todo empezó cuando me topé con un repositorio en GitLab que me fascinó sobre cómo generar el &lt;em&gt;Enquiridión&lt;/em&gt; de Epicteto (uno de mis libros favoritos) en PDF usando LaTeX. El proyecto original tomaba el texto del &lt;a href=&#34;https://www.gutenberg.org/&#34;&gt;Proyecto Gutenberg&lt;/a&gt; y lograba un resultado de una elegancia y profesionalismo que pocas herramientas de edición modernas pueden replicar.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
