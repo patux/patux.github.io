@@ -18,7 +18,7 @@
 &lt;p&gt;He decidido darle una limpieza profunda al blog y estos son los cambios principales:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Nuevo Diseño:&lt;/strong&gt; He migrado el sitio a &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;PaperMod&lt;/a&gt;. Buscaba algo más limpio, rápido y minimalista que me permitiera enfocarme en lo que realmente importa: &lt;strong&gt;&lt;em&gt;escribir&lt;/em&gt;&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Solo en Español:&lt;/strong&gt; Después de pensarlo un poco, decidi hacer este blog exclusivamente en español. He traducido o eliminado contenido antiguo para mantener una línea coherente.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Solo en Español:&lt;/strong&gt; Después de pensarlo un poco, decidi hacer este blog exclusivamente en español. He traducido o eliminado contenido antiguo para mantener una línea coherente. Los traductores automaticos de los browsers han evolucionado mucho y pueden traducir sin problema o perdida de contexto.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Limpieza de Contenido:&lt;/strong&gt; He quitado varios posts que ya no sentía que aportaban mucho o que eran demasiado personales para este formato. Ahora el enfoque está más claro: &lt;em&gt;tecnología, filosofía y comunidades open source&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Configuración simplificada:&lt;/strong&gt; Todo el sitio ahora corre bajo YAML (adiós TOML) y uso Docker para que el proceso de compilación sea idéntico sin importar dónde esté.&lt;/li&gt;
 &lt;/ol&gt;
