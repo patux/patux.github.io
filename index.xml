@@ -7,8 +7,19 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Este es blog personal. Las cosas dichas aqui no representan la opinion de mi empleador , ©2018-2026</copyright>
-    <lastBuildDate>Mon, 25 May 2026 17:22:00 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 16:16:05 -0600</lastBuildDate>
     <atom:link href="https://www.patux.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy</title>
+      <link>https://www.patux.net/privacy/</link>
+      <pubDate>Wed, 27 May 2026 16:16:05 -0600</pubDate>
+      <guid>https://www.patux.net/privacy/</guid>
+      <description>&lt;p&gt;We use Google Analytics for insight into website usage.&lt;/p&gt;
+&lt;p&gt;It gives us insight into the number of people that visit our website,
+where they are from and what they are clicking on. We follow the guidelines
+of the Dutch Government, which describe how to use Google Analytics without
+requiring explicit consent.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Artesanía digital: Reviviendo a Epicteto y Maquiavelo con LaTeX e IA</title>
       <link>https://www.patux.net/posts/2026/libros_e_ia/</link>
