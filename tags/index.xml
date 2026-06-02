@@ -7,8 +7,36 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Este es blog personal. Las cosas dichas aqui no representan la opinion de mi empleador , ©2018-2026</copyright>
-    <lastBuildDate>Mon, 25 May 2026 17:22:00 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 10:00:00 -0600</lastBuildDate>
     <atom:link href="https://www.patux.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux</title>
+      <link>https://www.patux.net/tags/linux/</link>
+      <pubDate>Tue, 02 Jun 2026 10:00:00 -0600</pubDate>
+      <guid>https://www.patux.net/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Open-Source</title>
+      <link>https://www.patux.net/tags/open-source/</link>
+      <pubDate>Tue, 02 Jun 2026 10:00:00 -0600</pubDate>
+      <guid>https://www.patux.net/tags/open-source/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sysadmin</title>
+      <link>https://www.patux.net/tags/sysadmin/</link>
+      <pubDate>Tue, 02 Jun 2026 10:00:00 -0600</pubDate>
+      <guid>https://www.patux.net/tags/sysadmin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tecnología</title>
+      <link>https://www.patux.net/tags/tecnolog%C3%ADa/</link>
+      <pubDate>Tue, 02 Jun 2026 10:00:00 -0600</pubDate>
+      <guid>https://www.patux.net/tags/tecnolog%C3%ADa/</guid>
+      <description></description>
+    </item>
     <item>
       <title>2026</title>
       <link>https://www.patux.net/tags/2026/</link>
@@ -49,13 +77,6 @@
       <link>https://www.patux.net/tags/opensource/</link>
       <pubDate>Mon, 25 May 2026 17:22:00 -0600</pubDate>
       <guid>https://www.patux.net/tags/opensource/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tecnología</title>
-      <link>https://www.patux.net/tags/tecnolog%C3%ADa/</link>
-      <pubDate>Mon, 25 May 2026 17:22:00 -0600</pubDate>
-      <guid>https://www.patux.net/tags/tecnolog%C3%ADa/</guid>
       <description></description>
     </item>
     <item>
