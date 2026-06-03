@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Data Volumes on Geronimo Orozco</title>
-    <link>https://www.patux.net/tags/data-volumes/</link>
-    <description>Recent content in Data Volumes on Geronimo Orozco</description>
+    <title>System Design on Geronimo Orozco</title>
+    <link>https://www.patux.net/tags/system-design/</link>
+    <description>Recent content in System Design on Geronimo Orozco</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Este es blog personal. Las cosas dichas aqui no representan la opinion de mi empleador , ©2018-2026</copyright>
     <lastBuildDate>Wed, 03 Jun 2026 00:16:00 -0600</lastBuildDate>
-    <atom:link href="https://www.patux.net/tags/data-volumes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.patux.net/tags/system-design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Potencia de dos</title>
       <link>https://www.patux.net/posts/2026/poweroftwo/</link>
