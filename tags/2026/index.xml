@@ -7,8 +7,78 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Este es blog personal. Las cosas dichas aqui no representan la opinion de mi empleador , ©2018-2026</copyright>
-    <lastBuildDate>Tue, 02 Jun 2026 10:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 00:16:00 -0600</lastBuildDate>
     <atom:link href="https://www.patux.net/tags/2026/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Power of two</title>
+      <link>https://www.patux.net/posts/2026/examples_of_data_volumes/</link>
+      <pubDate>Wed, 03 Jun 2026 00:16:00 -0600</pubDate>
+      <guid>https://www.patux.net/posts/2026/examples_of_data_volumes/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Data Volumes:&lt;/strong&gt; The volume of data in a single file or file system can be described by a unit called a byte. However, data volumes can become very large when dealing with Earth satellite data. Below is a table to explain data volume units (credit Roy Williams, Center for Advanced Computing Research at the California Institute of Technology).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Kilo- means 1,000; a Kilobyte is one thousand bytes.&lt;/li&gt;
+&lt;li&gt;Mega- means 1,000,000; a Megabyte is a million bytes.&lt;/li&gt;
+&lt;li&gt;Giga- means 1,000,000,000; a Gigabyte is a billion bytes.&lt;/li&gt;
+&lt;li&gt;Tera- means 1,000,000,000,000; a Terabyte is a trillion bytes.&lt;/li&gt;
+&lt;li&gt;Peta- means 1,000,000,000,000,000; a Petabyte is 1,000 Terabytes.&lt;/li&gt;
+&lt;li&gt;Exa- means 1,000,000,000,000,000,000; an Exabyte is 1,000 Petabytes.&lt;/li&gt;
+&lt;li&gt;Zetta- means 1,000,000,000,000,000,000,000; a Zettabyte is 1,000 Exabytes.&lt;/li&gt;
+&lt;li&gt;Yotta- means 1,000,000,000,000,000,000,000,000; a Yottabyte is 1,000 Zettabytes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;examples-of-data-volumes&#34;&gt;Examples of Data Volumes&lt;/h2&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Unit&lt;/th&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Value&lt;/th&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Example&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Kilobytes (KB)&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;1,000 bytes&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;a paragraph of a text document&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Megabytes (MB)&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;1,000 Kilobytes&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;a small novel&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Gigabytes (GB)&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;1,000 Megabytes&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Beethoven’s 5th Symphony&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Terabytes (TB)&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;1,000 Gigabytes&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;all the X-rays in a large hospital&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Petabytes (PB)&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;1,000 Terabytes&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;half the contents of all US academic research libraries&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Exabytes (EB)&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;1,000 Petabytes&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;about one fifth of the words people have ever spoken&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Zettabytes (ZB)&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;1,000 Exabytes&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;as much information as there are grains of sand on all the world’s beaches&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Yottabytes (YB)&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;1,000 Zettabytes&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;as much information as there are atoms in 7,000 human bodies&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Notes:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Etckeeper: Control de versiones para /etc</title>
       <link>https://www.patux.net/posts/2026/etckeeper/</link>

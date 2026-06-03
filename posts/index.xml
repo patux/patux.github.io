@@ -7,8 +7,78 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Este es blog personal. Las cosas dichas aqui no representan la opinion de mi empleador , ©2018-2026</copyright>
-    <lastBuildDate>Tue, 02 Jun 2026 10:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 00:16:00 -0600</lastBuildDate>
     <atom:link href="https://www.patux.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Power of two</title>
+      <link>https://www.patux.net/posts/2026/examples_of_data_volumes/</link>
+      <pubDate>Wed, 03 Jun 2026 00:16:00 -0600</pubDate>
+      <guid>https://www.patux.net/posts/2026/examples_of_data_volumes/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Data Volumes:&lt;/strong&gt; The volume of data in a single file or file system can be described by a unit called a byte. However, data volumes can become very large when dealing with Earth satellite data. Below is a table to explain data volume units (credit Roy Williams, Center for Advanced Computing Research at the California Institute of Technology).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Kilo- means 1,000; a Kilobyte is one thousand bytes.&lt;/li&gt;
+&lt;li&gt;Mega- means 1,000,000; a Megabyte is a million bytes.&lt;/li&gt;
+&lt;li&gt;Giga- means 1,000,000,000; a Gigabyte is a billion bytes.&lt;/li&gt;
+&lt;li&gt;Tera- means 1,000,000,000,000; a Terabyte is a trillion bytes.&lt;/li&gt;
+&lt;li&gt;Peta- means 1,000,000,000,000,000; a Petabyte is 1,000 Terabytes.&lt;/li&gt;
+&lt;li&gt;Exa- means 1,000,000,000,000,000,000; an Exabyte is 1,000 Petabytes.&lt;/li&gt;
+&lt;li&gt;Zetta- means 1,000,000,000,000,000,000,000; a Zettabyte is 1,000 Exabytes.&lt;/li&gt;
+&lt;li&gt;Yotta- means 1,000,000,000,000,000,000,000,000; a Yottabyte is 1,000 Zettabytes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;examples-of-data-volumes&#34;&gt;Examples of Data Volumes&lt;/h2&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Unit&lt;/th&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Value&lt;/th&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Example&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Kilobytes (KB)&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;1,000 bytes&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;a paragraph of a text document&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Megabytes (MB)&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;1,000 Kilobytes&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;a small novel&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Gigabytes (GB)&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;1,000 Megabytes&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Beethoven’s 5th Symphony&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Terabytes (TB)&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;1,000 Gigabytes&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;all the X-rays in a large hospital&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Petabytes (PB)&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;1,000 Terabytes&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;half the contents of all US academic research libraries&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Exabytes (EB)&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;1,000 Petabytes&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;about one fifth of the words people have ever spoken&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Zettabytes (ZB)&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;1,000 Exabytes&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;as much information as there are grains of sand on all the world’s beaches&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;Yottabytes (YB)&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;1,000 Zettabytes&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;as much information as there are atoms in 7,000 human bodies&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Notes:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Etckeeper: Control de versiones para /etc</title>
       <link>https://www.patux.net/posts/2026/etckeeper/</link>
@@ -80,8 +150,8 @@ Me senti fascinado, principalmente porque en mi casa tengo una replica de &lt;a 
       <description>&lt;h2 id=&#34;50-consejos-de-un-hombre-de-80-años&#34;&gt;50 consejos de un hombre de 80 años.&lt;/h2&gt;
 &lt;p&gt;Hace tiempo di con una entrevista a Henry Cavill donde comparte que un amigo suyo le mando un texto con una lista de consejos para la vida desde la perspectiva de un hombre de 80 años. Mantiene esta lista en su teléfono y dice que la lee con frecuencia. Esta lista se hizo viral y la reproduzco a continuacion.&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/9Lumng-m9K4?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+			&lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/9Lumng-m9K4?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+		&lt;/div&gt;
 
 &lt;ol&gt;
 &lt;li&gt;Aprieta bien la mano de alguien cuando lo saludes.&lt;/li&gt;
@@ -176,8 +246,8 @@ Me senti fascinado, principalmente porque en mi casa tengo una replica de &lt;a 
       <pubDate>Fri, 01 May 2020 02:46:10 +0000</pubDate>
       <guid>https://www.patux.net/posts/2020/la-realidad-supera-a-la-ficcion/</guid>
       <description>&lt;p&gt;Hace 3 días vi la película &lt;a href=&#34;https://www.imdb.com/title/tt2140507/&#34;&gt;&amp;ldquo;The Current War&amp;rdquo;&lt;/a&gt; &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/2FTxKFsWz60?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+			&lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/2FTxKFsWz60?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+		&lt;/div&gt;
  Trata sobre &lt;a href=&#34;https://es.wikipedia.org/wiki/Guerra_de_las_corrientes&#34;&gt;la guerra de las corrientes&lt;/a&gt; y me pareció una película entretenida, sin embargo como en muchas películas se toman mucha libertad creativa, ya que presentan a un Edison pobre,  inventor, genio y muy competitivo. Edison en realidad era ante todo un empresario, inventor eso si pero principalmente un empresario, y, como muchos empresarios estaba dispuesto a promover actos cuestionables con tal de ganar. En 1903 &lt;a href=&#34;https://en.wikipedia.org/wiki/Electrocuting_an_Elephant&#34;&gt;electrocutaron un elefante&lt;/a&gt; usando corriente alterna para desprestigiar la corriente alterna (de su competencia) y favorecer la corriente continua que es la que el vendía MUCHÍSIMO mas cara. El nacimiento de la &lt;a href=&#34;https://es.wikipedia.org/wiki/Silla_el%C3%A9ctrica&#34;&gt;silla eléctrica&lt;/a&gt; también esta asociado a Edison aunque no directamente (Un empleado de Edison la desarrollo).
 Ademas esta película se minimiza el impacto y participación de Tesla y resaltan en cambio a Westinghouse, lo cual como ingeniero, me parece ofensivo y muy injusto.&lt;/p&gt;</description>
     </item>
