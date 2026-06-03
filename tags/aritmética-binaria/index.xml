@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Aritmética Binaria on Geronimo Orozco</title>
+    <link>https://www.patux.net/tags/aritm%C3%A9tica-binaria/</link>
+    <description>Recent content in Aritmética Binaria on Geronimo Orozco</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Este es blog personal. Las cosas dichas aqui no representan la opinion de mi empleador , ©2018-2026</copyright>
+    <lastBuildDate>Wed, 03 Jun 2026 00:16:00 -0600</lastBuildDate>
+    <atom:link href="https://www.patux.net/tags/aritm%C3%A9tica-binaria/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Potencia de dos</title>
+      <link>https://www.patux.net/posts/2026/poweroftwo/</link>
+      <pubDate>Wed, 03 Jun 2026 00:16:00 -0600</pubDate>
+      <guid>https://www.patux.net/posts/2026/poweroftwo/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Volúmenes de datos:&lt;/strong&gt; El volumen de datos en un archivo o sistema de archivos se puede describir mediante una unidad llamada &lt;code&gt;byte&lt;/code&gt;. Sin embargo, los volúmenes de datos pueden volverse muy grandes cuando se tratamos con datos masivos como los generados por satélites terrestres. A continuación se presenta una tabla para explicar las unidades de volumen de datos (data volume units) (crédito a Roy Williams, Centro de Investigación Avanzada en Computación del Instituto de Tecnología de California).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
