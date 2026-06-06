@@ -7,13 +7,41 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Este es blog personal. Las cosas dichas aqui no representan la opinion de mi empleador , ©2018-2026</copyright>
-    <lastBuildDate>Wed, 03 Jun 2026 00:16:00 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 21:30:00 -0600</lastBuildDate>
     <atom:link href="https://www.patux.net/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2026</title>
       <link>https://www.patux.net/tags/2026/</link>
-      <pubDate>Wed, 03 Jun 2026 00:16:00 -0600</pubDate>
+      <pubDate>Fri, 05 Jun 2026 21:30:00 -0600</pubDate>
       <guid>https://www.patux.net/tags/2026/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bookmarks</title>
+      <link>https://www.patux.net/tags/bookmarks/</link>
+      <pubDate>Fri, 05 Jun 2026 21:30:00 -0600</pubDate>
+      <guid>https://www.patux.net/tags/bookmarks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linkhut</title>
+      <link>https://www.patux.net/tags/linkhut/</link>
+      <pubDate>Fri, 05 Jun 2026 21:30:00 -0600</pubDate>
+      <guid>https://www.patux.net/tags/linkhut/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Opensource</title>
+      <link>https://www.patux.net/tags/opensource/</link>
+      <pubDate>Fri, 05 Jun 2026 21:30:00 -0600</pubDate>
+      <guid>https://www.patux.net/tags/opensource/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tecnología</title>
+      <link>https://www.patux.net/tags/tecnolog%C3%ADa/</link>
+      <pubDate>Fri, 05 Jun 2026 21:30:00 -0600</pubDate>
+      <guid>https://www.patux.net/tags/tecnolog%C3%ADa/</guid>
       <description></description>
     </item>
     <item>
@@ -38,24 +66,10 @@
       <description></description>
     </item>
     <item>
-      <title>Tecnología</title>
-      <link>https://www.patux.net/tags/tecnolog%C3%ADa/</link>
-      <pubDate>Wed, 03 Jun 2026 00:16:00 -0600</pubDate>
-      <guid>https://www.patux.net/tags/tecnolog%C3%ADa/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Linux</title>
       <link>https://www.patux.net/tags/linux/</link>
       <pubDate>Tue, 02 Jun 2026 10:00:00 -0600</pubDate>
       <guid>https://www.patux.net/tags/linux/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Opensource</title>
-      <link>https://www.patux.net/tags/opensource/</link>
-      <pubDate>Tue, 02 Jun 2026 10:00:00 -0600</pubDate>
-      <guid>https://www.patux.net/tags/opensource/</guid>
       <description></description>
     </item>
     <item>

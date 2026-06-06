@@ -7,8 +7,16 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Este es blog personal. Las cosas dichas aqui no representan la opinion de mi empleador , ©2018-2026</copyright>
-    <lastBuildDate>Wed, 03 Jun 2026 00:16:00 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 21:30:00 -0600</lastBuildDate>
     <atom:link href="https://www.patux.net/tags/tecnolog%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linkhut: Sucesor espiritual de del.icio.us</title>
+      <link>https://www.patux.net/posts/2026/linkhut/</link>
+      <pubDate>Fri, 05 Jun 2026 21:30:00 -0600</pubDate>
+      <guid>https://www.patux.net/posts/2026/linkhut/</guid>
+      <description>&lt;p&gt;Si eres de los que lleva tiempo en internet, seguramente recordarás con nostalgia &lt;strong&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Delicious_(website)&#34;&gt;del.icio.us&lt;/a&gt;&lt;/strong&gt;. Este era mi sitio favorito para guardar bookmarks, organizarlos y, sobre todo, no perderlos en entre diferentes cambios de dispositivo, navegador o sistema.  Hubo un tiempo en que pasaba horas explorando en del.icio.us porque la calidad de urls que guardaba la comunidad era interesantisima.&lt;/p&gt;
+&lt;p&gt;Recientemente, busque opciones y encontre el link a un hilo de &lt;a href=&#34;https://news.ycombinator.com/item?id=32506168&#34;&gt;Hacker News&lt;/a&gt; donde mencionaba una alternativa que captura esa esencia de simplicidad y utilidad: &lt;a href=&#34;http://linkhut.org&#34;&gt;Linkhut&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Potencia de dos</title>
       <link>https://www.patux.net/posts/2026/poweroftwo/</link>
