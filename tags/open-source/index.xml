@@ -1,21 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Open-Source on Geronimo Orozco</title>
+    <title>Open Source on Geronimo Orozco</title>
     <link>https://www.patux.net/tags/open-source/</link>
-    <description>Recent content in Open-Source on Geronimo Orozco</description>
+    <description>Recent content in Open Source on Geronimo Orozco</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Este es blog personal. Las cosas dichas aqui no representan la opinion de mi empleador , ©2018-2026</copyright>
-    <lastBuildDate>Tue, 02 Jun 2026 10:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 21:30:00 -0600</lastBuildDate>
     <atom:link href="https://www.patux.net/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>linkhut: El sucesor espiritual de del.icio.us</title>
+      <link>https://www.patux.net/posts/2026/linkhut/</link>
+      <pubDate>Fri, 05 Jun 2026 21:30:00 -0600</pubDate>
+      <guid>https://www.patux.net/posts/2026/linkhut/</guid>
+      <description>&lt;p&gt;Si eres de los que lleva tiempo en internet, seguramente recordarás con nostalgia &lt;strong&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Delicious_(website)&#34;&gt;del.icio.us&lt;/a&gt;&lt;/strong&gt;. Este era mi sitio favorito para guardar bookmarks, organizarlos y, sobre todo, no perderlos en entre diferentes cambios de dispositivo, navegador o sistema.  Hubo un tiempo en que pasaba horas explorando en del.icio.us porque la calidad de urls que guardaba la comunidad era interesantisima.&lt;/p&gt;
+&lt;p&gt;Recientemente, busque opciones y encontre el link a un hilo de &lt;a href=&#34;https://news.ycombinator.com/item?id=32506168&#34;&gt;Hacker News&lt;/a&gt; donde mencionaba una alternativa que captura esa esencia de simplicidad y utilidad: &lt;a href=&#34;http://linkhut.org&#34;&gt;linkhut&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Etckeeper: Control de versiones para /etc</title>
       <link>https://www.patux.net/posts/2026/etckeeper/</link>
       <pubDate>Tue, 02 Jun 2026 10:00:00 -0600</pubDate>
       <guid>https://www.patux.net/posts/2026/etckeeper/</guid>
-      <description>&lt;p&gt;Hace poco me encontre con &lt;code&gt;etckeeper&lt;/code&gt; el cual es un set de herramientas para hacer control de versiones sobre el &lt;code&gt;etc&lt;/code&gt; de tu maquina &lt;code&gt;linux/darwin&lt;/code&gt; he hice &lt;a href=&#34;https://x.com/patux/status/2044119929792655755?s=20&#34;&gt;un tweet rapido sobre el mismo&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Hace poco me encontre con &lt;code&gt;etckeeper&lt;/code&gt; el cual es un set de herramientas para hacer control de versiones sobre el &lt;code&gt;etc&lt;/code&gt; de tu maquina Linux he hice &lt;a href=&#34;https://x.com/patux/status/2044119929792655755?s=20&#34;&gt;un tweet rapido sobre el mismo&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Si administras servidores Unix/Linux o tu propia máquina Linux, sabes que el directorio &lt;code&gt;/etc&lt;/code&gt; es el corazón de la configuración del sistema. Un error al editar un archivo ahí puede darte dolores de cabeza para regresar a como lo tenias.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Artesanía digital: Reviviendo a Epicteto y Maquiavelo con LaTeX e IA</title>
+      <link>https://www.patux.net/posts/2026/libros_e_ia/</link>
+      <pubDate>Mon, 25 May 2026 17:22:00 -0600</pubDate>
+      <guid>https://www.patux.net/posts/2026/libros_e_ia/</guid>
+      <description>&lt;p&gt;Hace unas semanas retomé un proyecto que tenía en el tintero: la creación de libros digitales con &lt;strong&gt;LaTeX&lt;/strong&gt;. Todo empezó cuando me topé con un repositorio en GitLab que me fascinó sobre cómo generar el &lt;em&gt;Enquiridión&lt;/em&gt; de Epicteto (uno de mis libros favoritos) en PDF usando LaTeX. El proyecto original tomaba el texto del &lt;a href=&#34;https://www.gutenberg.org/&#34;&gt;Proyecto Gutenberg&lt;/a&gt; y lograba un resultado de una elegancia y profesionalismo que pocas herramientas de edición modernas pueden replicar.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Entrevista en La jaula del n00b</title>
+      <link>https://www.patux.net/posts/2022/entrevista/</link>
+      <pubDate>Sat, 26 Mar 2022 00:25:53 -0600</pubDate>
+      <guid>https://www.patux.net/posts/2022/entrevista/</guid>
+      <description>&lt;p&gt;El miércoles pasado me hicieron una entrevista en &lt;a href=&#34;https://www.podnation.co/show/la-jaula-del-n00b/episode/entrevista-en-la-jaula-del-n00b-con-geronimo-orozco-aka-patux&#34;&gt;La Jaula del n00b&lt;/a&gt; un podcast en español sobre tecnología y hacking.&lt;/p&gt;
+&lt;p&gt;Tenia mucho tiempo sin hacer entrevistas, creo que estaba un poco rusty :sweat_smile: pero me gusto mucho participar.&lt;/p&gt;
+&lt;p&gt;Muy contento y honrado de haber sido invitado al programa muchas gracias a Hector López.&lt;/p&gt;
+&lt;p&gt;Me acabo de dar cuenta del alcance del podcast es mas grande del que pensaba hay version del podcast en todos los formatos :anguished: OMG.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reunion GLO Febrero 2018</title>
+      <link>https://www.patux.net/posts/2018/glo_reunion_february/</link>
+      <pubDate>Mon, 19 Feb 2018 00:55:56 -0600</pubDate>
+      <guid>https://www.patux.net/posts/2018/glo_reunion_february/</guid>
+      <description>&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://www.patux.net/images/logo_glo.png&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.mail-archive.com/glo@glo.org.mx/msg03349.html&#34;&gt;Se esta organizando una reunion&lt;/a&gt; del &lt;a href=&#34;http://glo.org.mx&#34;&gt;Grupo Linux de Occidente&lt;/a&gt;, casi despues de 20 años de su fundacion. Sera interesante asistir y ver las caras de viejos amigos, camaradas y ver que ha sido de nosotros despues de tantas guerras santas, ideales y vision acerca del futuro dominado por un sistema libre y de codigo abierto.&lt;/p&gt;
+&lt;p&gt;Ciertamente las cosas son muy diferentes respecto a hace 20 años y el Open Source ya no es lo que era en esos tiempos.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -10,13 +10,6 @@
     <lastBuildDate>Fri, 05 Jun 2026 21:30:00 -0600</lastBuildDate>
     <atom:link href="https://www.patux.net/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2026</title>
-      <link>https://www.patux.net/tags/2026/</link>
-      <pubDate>Fri, 05 Jun 2026 21:30:00 -0600</pubDate>
-      <guid>https://www.patux.net/tags/2026/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Bookmarks</title>
       <link>https://www.patux.net/tags/bookmarks/</link>
       <pubDate>Fri, 05 Jun 2026 21:30:00 -0600</pubDate>
@@ -38,10 +31,10 @@
       <description></description>
     </item>
     <item>
-      <title>Opensource</title>
-      <link>https://www.patux.net/tags/opensource/</link>
+      <title>Open Source</title>
+      <link>https://www.patux.net/tags/open-source/</link>
       <pubDate>Fri, 05 Jun 2026 21:30:00 -0600</pubDate>
-      <guid>https://www.patux.net/tags/opensource/</guid>
+      <guid>https://www.patux.net/tags/open-source/</guid>
       <description></description>
     </item>
     <item>
@@ -122,10 +115,17 @@
       <description></description>
     </item>
     <item>
-      <title>2025</title>
-      <link>https://www.patux.net/tags/2025/</link>
-      <pubDate>Sat, 13 Sep 2025 19:11:07 -0600</pubDate>
-      <guid>https://www.patux.net/tags/2025/</guid>
+      <title>Filosofia</title>
+      <link>https://www.patux.net/tags/filosofia/</link>
+      <pubDate>Wed, 20 May 2026 01:30:32 -0600</pubDate>
+      <guid>https://www.patux.net/tags/filosofia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>General</title>
+      <link>https://www.patux.net/tags/general/</link>
+      <pubDate>Wed, 20 May 2026 01:30:32 -0600</pubDate>
+      <guid>https://www.patux.net/tags/general/</guid>
       <description></description>
     </item>
     <item>
@@ -150,24 +150,10 @@
       <description></description>
     </item>
     <item>
-      <title>2023</title>
-      <link>https://www.patux.net/tags/2023/</link>
-      <pubDate>Fri, 28 Jul 2023 16:20:19 -0600</pubDate>
-      <guid>https://www.patux.net/tags/2023/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Reflexion</title>
       <link>https://www.patux.net/tags/reflexion/</link>
       <pubDate>Fri, 28 Jul 2023 16:20:19 -0600</pubDate>
       <guid>https://www.patux.net/tags/reflexion/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>2022</title>
-      <link>https://www.patux.net/tags/2022/</link>
-      <pubDate>Sat, 26 Mar 2022 00:25:53 -0600</pubDate>
-      <guid>https://www.patux.net/tags/2022/</guid>
       <description></description>
     </item>
     <item>
@@ -189,13 +175,6 @@
       <link>https://www.patux.net/tags/software-libre/</link>
       <pubDate>Sat, 26 Mar 2022 00:25:53 -0600</pubDate>
       <guid>https://www.patux.net/tags/software-libre/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>2020</title>
-      <link>https://www.patux.net/tags/2020/</link>
-      <pubDate>Sun, 21 Jun 2020 19:47:26 +0000</pubDate>
-      <guid>https://www.patux.net/tags/2020/</guid>
       <description></description>
     </item>
     <item>
@@ -255,13 +234,6 @@
       <description></description>
     </item>
     <item>
-      <title>2019</title>
-      <link>https://www.patux.net/tags/2019/</link>
-      <pubDate>Mon, 23 Dec 2019 19:15:01 -0600</pubDate>
-      <guid>https://www.patux.net/tags/2019/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Musica</title>
       <link>https://www.patux.net/tags/musica/</link>
       <pubDate>Mon, 23 Dec 2019 19:15:01 -0600</pubDate>
@@ -276,10 +248,10 @@
       <description></description>
     </item>
     <item>
-      <title>2018</title>
-      <link>https://www.patux.net/tags/2018/</link>
-      <pubDate>Thu, 22 Feb 2018 22:04:18 -0600</pubDate>
-      <guid>https://www.patux.net/tags/2018/</guid>
+      <title>Kubecon</title>
+      <link>https://www.patux.net/tags/kubecon/</link>
+      <pubDate>Sun, 17 Nov 2019 23:52:02 -0600</pubDate>
+      <guid>https://www.patux.net/tags/kubecon/</guid>
       <description></description>
     </item>
     <item>

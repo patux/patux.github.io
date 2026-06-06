@@ -3,9 +3,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.patux.net/tags/2026/</loc>
-    <lastmod>2026-06-05T21:30:00-06:00</lastmod>
-  </url><url>
     <loc>https://www.patux.net/tags/bookmarks/</loc>
     <lastmod>2026-06-05T21:30:00-06:00</lastmod>
   </url><url>
@@ -21,7 +18,7 @@
     <loc>https://www.patux.net/posts/2026/linkhut/</loc>
     <lastmod>2026-06-05T21:30:00-06:00</lastmod>
   </url><url>
-    <loc>https://www.patux.net/tags/opensource/</loc>
+    <loc>https://www.patux.net/tags/open-source/</loc>
     <lastmod>2026-06-05T21:30:00-06:00</lastmod>
   </url><url>
     <loc>https://www.patux.net/posts/</loc>
@@ -81,8 +78,11 @@
     <loc>https://www.patux.net/tags/blog/</loc>
     <lastmod>2026-05-20T01:30:32-06:00</lastmod>
   </url><url>
-    <loc>https://www.patux.net/tags/2025/</loc>
-    <lastmod>2025-10-08T17:33:05-06:00</lastmod>
+    <loc>https://www.patux.net/tags/filosofia/</loc>
+    <lastmod>2026-05-20T01:30:32-06:00</lastmod>
+  </url><url>
+    <loc>https://www.patux.net/tags/general/</loc>
+    <lastmod>2026-05-20T01:30:32-06:00</lastmod>
   </url><url>
     <loc>https://www.patux.net/posts/2025/25preguntas/</loc>
     <lastmod>2025-09-13T19:11:07-06:00</lastmod>
@@ -102,17 +102,11 @@
     <loc>https://www.patux.net/posts/2025/arte/</loc>
     <lastmod>2025-08-20T14:06:31-06:00</lastmod>
   </url><url>
-    <loc>https://www.patux.net/tags/2023/</loc>
-    <lastmod>2023-07-28T16:20:19-06:00</lastmod>
-  </url><url>
     <loc>https://www.patux.net/posts/2023/50consejosdeunhombrede80/</loc>
     <lastmod>2023-07-28T16:20:19-06:00</lastmod>
   </url><url>
     <loc>https://www.patux.net/tags/reflexion/</loc>
     <lastmod>2023-07-28T16:20:19-06:00</lastmod>
-  </url><url>
-    <loc>https://www.patux.net/tags/2022/</loc>
-    <lastmod>2022-03-26T00:25:53-06:00</lastmod>
   </url><url>
     <loc>https://www.patux.net/tags/comunidades/</loc>
     <lastmod>2022-03-26T00:25:53-06:00</lastmod>
@@ -125,9 +119,6 @@
   </url><url>
     <loc>https://www.patux.net/tags/software-libre/</loc>
     <lastmod>2022-03-26T00:25:53-06:00</lastmod>
-  </url><url>
-    <loc>https://www.patux.net/tags/2020/</loc>
-    <lastmod>2020-06-21T19:47:26+00:00</lastmod>
   </url><url>
     <loc>https://www.patux.net/tags/hobbies/</loc>
     <lastmod>2020-06-21T19:47:26+00:00</lastmod>
@@ -165,9 +156,6 @@
     <loc>https://www.patux.net/tags/iphone-x/</loc>
     <lastmod>2020-01-27T04:58:26+00:00</lastmod>
   </url><url>
-    <loc>https://www.patux.net/tags/2019/</loc>
-    <lastmod>2019-12-23T19:15:01-06:00</lastmod>
-  </url><url>
     <loc>https://www.patux.net/posts/2019/misoundtrack2019-2014/</loc>
     <lastmod>2019-12-23T19:15:01-06:00</lastmod>
   </url><url>
@@ -177,11 +165,11 @@
     <loc>https://www.patux.net/tags/playlist/</loc>
     <lastmod>2019-12-23T19:15:01-06:00</lastmod>
   </url><url>
-    <loc>https://www.patux.net/posts/2019/kubekon-san-diego-2019/</loc>
+    <loc>https://www.patux.net/tags/kubecon/</loc>
     <lastmod>2019-11-17T23:52:02-06:00</lastmod>
   </url><url>
-    <loc>https://www.patux.net/tags/2018/</loc>
-    <lastmod>2018-02-22T22:04:18-06:00</lastmod>
+    <loc>https://www.patux.net/posts/2019/kubekon-san-diego-2019/</loc>
+    <lastmod>2019-11-17T23:52:02-06:00</lastmod>
   </url><url>
     <loc>https://www.patux.net/posts/2018/oscares2018/</loc>
     <lastmod>2018-02-22T22:04:18-06:00</lastmod>
