@@ -35,6 +35,25 @@
 &lt;p&gt;Si administras servidores Unix/Linux o tu propia máquina Linux, sabes que el directorio &lt;code&gt;/etc&lt;/code&gt; es el corazón de la configuración del sistema. Un error al editar un archivo ahí puede darte dolores de cabeza para regresar a como lo tenias.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Presentaciones</title>
+      <link>https://www.patux.net/presentaciones/</link>
+      <pubDate>Wed, 27 May 2026 16:16:05 -0600</pubDate>
+      <guid>https://www.patux.net/presentaciones/</guid>
+      <description>&lt;p&gt;Links a charlas que he dado en diversos foros en el pasado:&lt;/p&gt;
+
+
+
+&lt;iframe src=&#34;https://www.slideshare.net/slideshow/embed_code/key/BWebnSa70jlHSD&#34; width=&#34;510&#34; height=&#34;420&#34;frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34;style=&#34;border: var(--border-1) solid #CCC; border-width:1px; margin-bottom:5px; max-width:100%;&#34;allowfullscreen&gt;&lt;/iframe&gt;&lt;div style=&#34;margin-bottom:5px&#34;&gt;&lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/slideshow/vagrant-and-puppet-deployment-made-easy/40720764&#34; title=&#34;vagrant-and-puppet-deployment-made-easy&#34; target=&#34;_blank&#34;&gt;vagrant-and-puppet-deployment-made-easy&lt;/a&gt;&lt;/strong&gt;from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/p4tux&#34; target=&#34;_blank&#34;&gt;Geronimo Orozco&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
+
+&lt;iframe src=&#34;https://www.slideshare.net/slideshow/embed_code/key/bJrhCYXQQSPwJ0&#34; width=&#34;510&#34; height=&#34;420&#34;frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34;style=&#34;border: var(--border-1) solid #CCC; border-width:1px; margin-bottom:5px; max-width:100%;&#34;allowfullscreen&gt;&lt;/iframe&gt;&lt;div style=&#34;margin-bottom:5px&#34;&gt;&lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/slideshow/development-nightmares/40720735&#34; title=&#34;development-nightmares&#34; target=&#34;_blank&#34;&gt;development-nightmares&lt;/a&gt;&lt;/strong&gt;from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/p4tux&#34; target=&#34;_blank&#34;&gt;Geronimo Orozco&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
+
+&lt;iframe src=&#34;https://www.slideshare.net/slideshow/embed_code/key/AV2Jy1UWiyrMZw&#34; width=&#34;510&#34; height=&#34;420&#34;frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34;style=&#34;border: var(--border-1) solid #CCC; border-width:1px; margin-bottom:5px; max-width:100%;&#34;allowfullscreen&gt;&lt;/iframe&gt;&lt;div style=&#34;margin-bottom:5px&#34;&gt;&lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/slideshow/bgit-be-social/40720710&#34; title=&#34;bgit-be-social&#34; target=&#34;_blank&#34;&gt;bgit-be-social&lt;/a&gt;&lt;/strong&gt;from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/p4tux&#34; target=&#34;_blank&#34;&gt;Geronimo Orozco&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
+
+&lt;iframe src=&#34;https://www.slideshare.net/slideshow/embed_code/key/L0zpYeQdTWdoxS&#34; width=&#34;510&#34; height=&#34;420&#34;frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34;style=&#34;border: var(--border-1) solid #CCC; border-width:1px; margin-bottom:5px; max-width:100%;&#34;allowfullscreen&gt;&lt;/iframe&gt;&lt;div style=&#34;margin-bottom:5px&#34;&gt;&lt;strong&gt;&lt;a href=&#34;https://es.slideshare.net/slideshow/hackerculture-40720621/40720621&#34; title=&#34;hackerculture-40720621&#34; target=&#34;_blank&#34;&gt;hackerculture-40720621&lt;/a&gt;&lt;/strong&gt;from &lt;strong&gt;&lt;a href=&#34;https://es.slideshare.net/p4tux&#34; target=&#34;_blank&#34;&gt;Geronimo Orozco&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
+
+&lt;iframe src=&#34;https://slides.com/patux/using-devstack/embed&#34; width=&#34;510&#34; height=&#34;420&#34; height=&#34;420&#34;frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34;style=&#34;border: var(--border-1) solid #CCC; border-width:1px; margin-bottom:5px; max-width:100%;&#34;allowfullscreen&gt;&lt;/iframe&gt;&lt;div style=&#34;margin-bottom:5px&#34;&gt;&lt;strong&gt;&lt;a href=&#34;https://slides.com/patux/using-devstack&#34; title=&#34;Using DevStack&#34; target=&#34;_blank&#34;&gt;Using DevStack&lt;/a&gt;&lt;/strong&gt;from &lt;strong&gt;&lt;a href=&#34;https://slides.com/patux/using-devstack/embed&#34; target=&#34;_blank&#34;&gt;Geronimo Orozco&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
       <title>Privacidad</title>
       <link>https://www.patux.net/privacidad/</link>
       <pubDate>Wed, 27 May 2026 16:16:05 -0600</pubDate>
@@ -73,7 +92,7 @@ requerir consentimiento explícito.&lt;/p&gt;</description>
       <pubDate>Sat, 13 Sep 2025 19:11:07 -0600</pubDate>
       <guid>https://www.patux.net/posts/2025/25preguntas/</guid>
       <description>&lt;p&gt;Encontre estas buenas preguntas en &lt;a href=&#34;https://reddit.com&#34;&gt;reddit&lt;/a&gt; para uno mismo y desatorarse en la vida.&lt;/p&gt;
-&lt;blockquote class=&#34;reddit-embed-bq&#34; style=&#34;height:316px&#34; data-embed-height=&#34;990&#34;&gt;&lt;a href=&#34;https://www.reddit.com/r/selfimprovement/comments/12me09l/25_questions_to_ask_yourself_that_can_help_you/&#34;&gt;25 questions to ask yourself that can help you get unstuck in life&lt;/a&gt;&lt;br&gt; by&lt;a href=&#34;https://www.reddit.com/user/dreamingonastar1/&#34;&gt;u/dreamingonastar1&lt;/a&gt; in&lt;a href=&#34;https://www.reddit.com/r/selfimprovement/&#34;&gt;selfimprovement&lt;/a&gt;&lt;/blockquote&gt;&lt;script async=&#34;&#34; src=&#34;https://embed.reddit.com/widgets.js&#34; charset=&#34;UTF-8&#34;&gt;&lt;/script&gt;</description>
+&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>Arte y Sentimientos 2</title>
