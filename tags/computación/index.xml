@@ -41,5 +41,12 @@ La mayoría de nosotros pasamos años estudiando computacion y casi ninguno de e
 &lt;/ol&gt;
 &lt;p&gt;Tengo 16/20 en fisico &amp;#x1f913; (1, 2, 3, 4, 8, 9, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20)&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Potencia de dos</title>
+      <link>https://www.patux.net/posts/2026/poweroftwo/</link>
+      <pubDate>Wed, 03 Jun 2026 00:16:00 -0600</pubDate>
+      <guid>https://www.patux.net/posts/2026/poweroftwo/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Volúmenes de datos:&lt;/strong&gt; El volumen de datos en un archivo o sistema de archivos se puede describir mediante una unidad llamada &lt;code&gt;byte&lt;/code&gt;. Sin embargo, los volúmenes de datos pueden volverse muy grandes cuando se tratamos con datos masivos como los generados por satélites terrestres. A continuación se presenta una tabla para explicar las unidades de volumen de datos (data volume units) (crédito a Roy Williams, Centro de Investigación Avanzada en Computación del Instituto de Tecnología de California).&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
