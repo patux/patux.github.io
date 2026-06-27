@@ -1,15 +1,38 @@
-
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.patux.net/tags/algoritmos/</loc>
+    <lastmod>2026-06-26T17:40:15-06:00</lastmod>
+  </url><url>
+    <loc>https://www.patux.net/tags/computaci%C3%B3n/</loc>
+    <lastmod>2026-06-26T17:40:15-06:00</lastmod>
+  </url><url>
+    <loc>https://www.patux.net/</loc>
+    <lastmod>2026-06-26T17:40:15-06:00</lastmod>
+  </url><url>
+    <loc>https://www.patux.net/tags/ingenieria/</loc>
+    <lastmod>2026-06-26T17:40:15-06:00</lastmod>
+  </url><url>
+    <loc>https://www.patux.net/posts/2026/engineering_books/</loc>
+    <lastmod>2026-06-26T17:40:15-06:00</lastmod>
+  </url><url>
+    <loc>https://www.patux.net/posts/</loc>
+    <lastmod>2026-06-26T17:40:15-06:00</lastmod>
+  </url><url>
+    <loc>https://www.patux.net/tags/programaci%C3%B3n/</loc>
+    <lastmod>2026-06-26T17:40:15-06:00</lastmod>
+  </url><url>
+    <loc>https://www.patux.net/tags/software/</loc>
+    <lastmod>2026-06-26T17:40:15-06:00</lastmod>
+  </url><url>
+    <loc>https://www.patux.net/tags/</loc>
+    <lastmod>2026-06-26T17:40:15-06:00</lastmod>
+  </url><url>
     <loc>https://www.patux.net/tags/bookmarks/</loc>
     <lastmod>2026-06-05T21:30:00-06:00</lastmod>
   </url><url>
     <loc>https://www.patux.net/tags/del.icio.us/</loc>
-    <lastmod>2026-06-05T21:30:00-06:00</lastmod>
-  </url><url>
-    <loc>https://www.patux.net/</loc>
     <lastmod>2026-06-05T21:30:00-06:00</lastmod>
   </url><url>
     <loc>https://www.patux.net/tags/linkhut/</loc>
@@ -19,12 +42,6 @@
     <lastmod>2026-06-05T21:30:00-06:00</lastmod>
   </url><url>
     <loc>https://www.patux.net/tags/open-source/</loc>
-    <lastmod>2026-06-05T21:30:00-06:00</lastmod>
-  </url><url>
-    <loc>https://www.patux.net/posts/</loc>
-    <lastmod>2026-06-05T21:30:00-06:00</lastmod>
-  </url><url>
-    <loc>https://www.patux.net/tags/</loc>
     <lastmod>2026-06-05T21:30:00-06:00</lastmod>
   </url><url>
     <loc>https://www.patux.net/tags/tecnolog%C3%ADa/</loc>

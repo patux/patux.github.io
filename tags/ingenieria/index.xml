@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ingenieria on Geronimo Orozco</title>
+    <link>https://www.patux.net/tags/ingenieria/</link>
+    <description>Recent content in Ingenieria on Geronimo Orozco</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Este es blog personal. Las cosas dichas aqui no representan la opinion de mi empleador , ©2018-2026</copyright>
+    <lastBuildDate>Fri, 26 Jun 2026 17:40:15 -0600</lastBuildDate>
+    <atom:link href="https://www.patux.net/tags/ingenieria/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Los 20 libros mas influyentes para ingenieros de software</title>
+      <link>https://www.patux.net/posts/2026/engineering_books/</link>
+      <pubDate>Fri, 26 Jun 2026 17:40:15 -0600</pubDate>
+      <guid>https://www.patux.net/posts/2026/engineering_books/</guid>
+      <description>&lt;p&gt;Tomado de: &lt;a href=&#34;https://x.com/systemdesignone/status/2070489873690079296&#34;&gt;@systemdesignone&lt;/a&gt; en X&lt;/p&gt;
+&lt;p&gt;Posiblemente los 20 libros más influyentes para ingenieros de software.
+La mayoría de nosotros pasamos años estudiando computacion y casi ninguno de ellos nos fue asignado como lectura obligatoria.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com.mx/Pragmatic-Programmer-Journey-Mastery-Anniversary/dp/0135957052/&#34;&gt;The Pragmatic Programmer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com.mx/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/&#34;&gt;Designing Data-Intensive Applications&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com.mx/Clean-Code-Handbook-Software-Craftsmanship/dp/0135398576/&#34;&gt;Clean Code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com.mx/Mythical-Man-Month-Essays-Software-Engineering/dp/0201835959/&#34;&gt;The Mythical Man-Month&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com.mx/Refactoring-Improving-Design-Existing-Code/dp/0134757599/&#34;&gt;Refactoring: Improving the Design of Existing Code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com.mx/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052/&#34;&gt;Working Effectively with Legacy Code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com.mx/Software-Architecture-Hard-Parts-English-ebook/dp/B09H2H5QKC/&#34;&gt;Software Architecture: The Hard Parts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com.mx/Database-Internals-Deep-Distributed-Systems/dp/1492040347/&#34;&gt;Database Internals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com.mx/Staff-Engineer-Leadership-beyond-management/dp/1736417916/&#34;&gt;Staff Engineer: Leadership Beyond the Management Track&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com.mx/Extreme-Ownership-U-S-Navy-Seals/dp/1250183863/&#34;&gt;Extreme Ownership: How U.S. Navy SEALs Lead and Win&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com.mx/Philosophy-Software-Design-2nd/dp/173210221X/&#34;&gt;A Philosophy of Software Design&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com.mx/Why-Programs-Fail-Systematic-Debugging-ebook/dp/B0092L8LCW/&#34;&gt;Why Programs Fail: A Guide to Systematic Debugging&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com.mx/Code-Complete-Steve-McConnell/dp/0735619670/&#34;&gt;Code Complete&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com.mx/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/&#34;&gt;Introduction to Algorithms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com.mx/Programming-Language-ANSI-Version/dp/0131103628/&#34;&gt;The C Programming Language&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com.mx/Art-Computer-Programming-Fundamental-Algorithms/dp/0201896834/&#34;&gt;The Art of Computer Programming, Volume 1: Fundamental Algorithms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com.mx/Building-Microservices-Designing-Fine-Grained-Systems/dp/1492034029/&#34;&gt;Building Microservices: Designing Fine-Grained Systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com.mx/Structure-Interpretation-Computer-Programs-Abelson/dp/0262510871/&#34;&gt;Structure and Interpretation of Computer Programs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com.mx/Peopleware-Productive-Projects-Teams-tom-demarco/dp/0321934113/&#34;&gt;Peopleware: Productive Projects and Teams&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com.mx/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/&#34;&gt;Design Patterns: Elements of Reusable Object-Oriented Software&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+  </channel>
+</rss>
