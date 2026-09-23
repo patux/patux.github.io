@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.patux.net/</loc>
+    <lastmod>2026-09-23T13:24:21-06:00</lastmod>
+  </url><url>
+    <loc>https://www.patux.net/resume/</loc>
+    <lastmod>2026-09-23T13:24:21-06:00</lastmod>
+  </url><url>
     <loc>https://www.patux.net/posts/2026/atomic-habits-communicator/</loc>
     <lastmod>2026-07-06T18:30:16-06:00</lastmod>
   </url><url>
     <loc>https://www.patux.net/tags/comunicaci%C3%B3n/</loc>
-    <lastmod>2026-07-06T18:30:16-06:00</lastmod>
-  </url><url>
-    <loc>https://www.patux.net/</loc>
     <lastmod>2026-07-06T18:30:16-06:00</lastmod>
   </url><url>
     <loc>https://www.patux.net/tags/liderazgo/</loc>
