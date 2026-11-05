@@ -7,8 +7,29 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Este es blog personal. Las cosas dichas aqui no representan la opinion de mi empleador , ©2018-2026</copyright>
-    <lastBuildDate>Mon, 06 Jul 2026 18:30:16 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 16:03:29 -0600</lastBuildDate>
     <atom:link href="https://www.patux.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Filosofía</title>
+      <link>https://www.patux.net/tags/filosof%C3%ADa/</link>
+      <pubDate>Thu, 05 Nov 2026 16:03:29 -0600</pubDate>
+      <guid>https://www.patux.net/tags/filosof%C3%ADa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>General</title>
+      <link>https://www.patux.net/tags/general/</link>
+      <pubDate>Thu, 05 Nov 2026 16:03:29 -0600</pubDate>
+      <guid>https://www.patux.net/tags/general/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hobbies</title>
+      <link>https://www.patux.net/tags/hobbies/</link>
+      <pubDate>Thu, 05 Nov 2026 16:03:29 -0600</pubDate>
+      <guid>https://www.patux.net/tags/hobbies/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Comunicación</title>
       <link>https://www.patux.net/tags/comunicaci%C3%B3n/</link>
@@ -136,13 +157,6 @@
       <description></description>
     </item>
     <item>
-      <title>Filosofía</title>
-      <link>https://www.patux.net/tags/filosof%C3%ADa/</link>
-      <pubDate>Mon, 25 May 2026 17:22:00 -0600</pubDate>
-      <guid>https://www.patux.net/tags/filosof%C3%ADa/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>IA</title>
       <link>https://www.patux.net/tags/ia/</link>
       <pubDate>Mon, 25 May 2026 17:22:00 -0600</pubDate>
@@ -168,20 +182,6 @@
       <link>https://www.patux.net/tags/blog/</link>
       <pubDate>Wed, 20 May 2026 01:30:32 -0600</pubDate>
       <guid>https://www.patux.net/tags/blog/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Filosofia</title>
-      <link>https://www.patux.net/tags/filosofia/</link>
-      <pubDate>Wed, 20 May 2026 01:30:32 -0600</pubDate>
-      <guid>https://www.patux.net/tags/filosofia/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>General</title>
-      <link>https://www.patux.net/tags/general/</link>
-      <pubDate>Wed, 20 May 2026 01:30:32 -0600</pubDate>
-      <guid>https://www.patux.net/tags/general/</guid>
       <description></description>
     </item>
     <item>
@@ -224,13 +224,6 @@
       <link>https://www.patux.net/tags/mexico/</link>
       <pubDate>Sat, 26 Mar 2022 00:25:53 -0600</pubDate>
       <guid>https://www.patux.net/tags/mexico/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hobbies</title>
-      <link>https://www.patux.net/tags/hobbies/</link>
-      <pubDate>Sun, 21 Jun 2020 19:47:26 +0000</pubDate>
-      <guid>https://www.patux.net/tags/hobbies/</guid>
       <description></description>
     </item>
     <item>
